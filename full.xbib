@@ -1,0 +1,3333 @@
+@book{cosmosBook,
+author = {Susan Stepney and Fiona A.C. Polack},
+title = {Engineering Simulations as Scientific Instruments: A Pattern Language},
+Publisher = {springer},
+year = 2018
+}
+
+@article {Alden20141059,
+	author = {Alden, K. and Andrews, P. S. and Polack, F. A. C. and Veiga-Fernandes, H. and Coles, M. C. and Timmis, J.},
+	title = {Using argument notation to engineer biological simulations with increased confidence},
+	volume = {12},
+	number = {104},
+	year = {2015},
+	doi = {10.1098/rsif.2014.1059},
+	publisher = {The Royal Society},
+    	URL = {http://rsif.royalsocietypublishing.org/content/12/104/20141059},
+	eprint = {http://rsif.royalsocietypublishing.org/content/12/104/20141059.full.pdf},
+	journal = {J. R. Soc. Interface}
+}
+
+@inproceedings{TwoProofs,
+author = {S. Stepney},
+title = {A Tale of Two Proofs},
+booktitle = {{BCS-FACS}  Northern Formal Methods Workshop}, 
+year = {1998}, 
+publisher = {Electronic Workshops in Computing}, 
+url = {\url{http://www.bcs.org/upload/pdf/ewic_fa98_paper15.pdf}}
+}
+
+@book{Barden,
+ author = {Barden, R. and Stepney, S. and Cooper, D.},
+ title = {Z in Practice},
+ year = {1995},
+ isbn = {0-13-124934-7},
+ publisher = {Prentice-Hall},
+}  address = {Upper Saddle River, NJ, USA},
+
+
+
+@Misc{ZStandard,
+  title = 	 {{Information Technology} -- {Z} Formal Specification Notation -- Syntax, Type System and Semantics},
+  howpublished = {ISO Standard 13568},
+  year = 	 2002,
+ url = {\url{https://www.iso.org/standard/21573.html}}
+ }
+   key = {iso2}
+
+@book{BBook,
+ author = {Abrial, J.-R.},
+ title = {The B-book: Assigning Programs to Meanings},
+ year = {1996},
+ isbn = {0-521-49619-5},
+ publisher = {CUP},
+}
+ address = {New York, NY, USA},
+
+@book{VDM,
+editor = {D. Bj{\o}rner and C. B. Jones},
+title = {The Vienna Development Method: The Meta-Language},
+publisher = {Springer},
+series = {LNCS},
+volume = 61,
+year = 1978,
+}
+
+@article{Mondex,
+author = {J. Woodcock and S. Stepney and D. Cooper and J. A. Clark and J. L. Jacob}, 
+title = {The certification of the {Mondex} electronic purse to {ITSEC Level E6}}, 
+journal = {Formal Aspects of Computing},
+volume = 20,
+number = 1, 
+pages = {5--19}, 
+year = 2008,
+}
+
+@article{DECCO-all,
+title = "The {DeCCo} project papers, {I} to {VI}",
+author = "S. Stepney and I. T. Nabney",
+year = 2003,
+volume = "YCS-2002-358 to YCS-2002-363",
+journal = "Technical Report, Computer Science, University of York",
+url = {\url{https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/358/YCS-2003-358.pdf}}
+}
+
+@book{DECCO-YCS1,
+title = "The DeCCo project papers",
+author = "S. Stepney and I. T. Nabney",
+year = "2003",
+volume = "YCS-2002-358",
+number = {I},
+publisher = "Department of Computer Science, University of York",
+url = {https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/358/YCS-2003-358.pdf}
+}
+
+@book{DECCO-YCS2,
+title = "The DeCCo project papers",
+author = "S. Stepney and I. T. Nabney",
+year = "2003",
+volume = "YCS-2002-359",
+number = {II},
+publisher = "Department of Computer Science, University of York",
+url = {https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/359/YCS-2003-359.pdf}
+}
+
+@book{DECCO-YCS3,
+title = "The DeCCo project papers",
+author = "S. Stepney and I. T. Nabney",
+year = "2003",
+volume = "YCS-2002-360",
+number = {III},
+publisher = "Department of Computer Science, University of York",
+url = {https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/360/YCS-2003-360.pdf}
+}
+
+@book{DECCO-YCS4,
+title = "The DeCCo project papers",
+author = "S. Stepney and I. T. Nabney",
+year = "2003",
+volume = "YCS-2002-361",
+number = {IV},
+publisher = "Department of Computer Science, University of York",
+url = {https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/361/YCS-2003-361.pdf}
+}
+
+@book{DECCO-YCS5,
+title = "The DeCCo project papers",
+author = "S. Stepney and I. T. Nabney",
+year = "2003",
+volume = "YCS-2002-362",
+number = {V},
+publisher = "Department of Computer Science, University of York",
+url = {https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/362/YCS-2003-362.pdf}
+}
+
+@book{DECCO-YCS6,
+title = "The DeCCo project papers",
+author = "S. Stepney and I. T. Nabney",
+year = "2003",
+volume = "YCS-2002-363",
+number = {VI},
+publisher = "Department of Computer Science, University of York",
+url = {https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/363/YCS-2003-363.pdf}
+}
+
+@book{SEngMaths,
+author ={J. Woodcock and M. Loomes}, 
+title = {Software engineering mathematics}, 
+publisher = {Addison-Wesley},
+year = 1990
+ }
+ 
+@book{AlexanderTimeless,
+title = {The timeless way of building},
+author = {C. Alexander},
+publisher ={OUP},
+year = 1979,
+}
+
+@book{Potter,
+ author = {Potter, B. and Till, D. and Sinclair, J.},
+ title = {An  Introduction to Formal Specification and {Z}},
+ year = {1996},
+ edition = {2nd},
+ publisher = {Prentice Hall},
+ 
+} isbn = {0132422077}, address = {Upper Saddle River, NJ, USA},
+
+volume = "YCS-2002-358 to YCS-2002-363",
+journal = "Technical Report, Computer Science, University of York",
+url = {\url{https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/358/YCS-2003-358.pdf}}
+
+@article{metaPatternsYCS,
+title = {Diagram patterns and meta-patterns to support formal modelling},
+author = "S. Stepney and F. Polack and I. Toyn",
+year = 2005,
+volume = {YCS-2005-394},
+journal = "Technical Report, Computer Science, University of York",
+url = {\url{https://www.cs.york.ac.uk/ftpdir/reports/2005/YCS/394/YCS-2005-394.pdf}}
+}
+volume = "YCS-2002-358 to YCS-2002-363",
+journal = "Technical Report, Computer Science, University of York",
+url = {\url{https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/358/YCS-2003-358.pdf}}
+
+@article{ZPatternsYCS,
+title = "A {Z} Patterns Catalogue I: specification and refactorings, v0.1",
+author = "S. Stepney and F. Polack and I. Toyn",
+year = "2003",
+volume = "YCS-2003-349",
+journal = "Technical Report, Computer Science, University of York",
+url = {\url{https://www.cs.york.ac.uk/ftpdir/reports/2003/YCS/349/YCS-2003-349.pdf}}
+}
+
+@article{ZPatternsIIYCS,
+title = "A {Z} Patterns Catalogue II: definitions and laws, v0.1",
+author = "S. H. Valentine and S. Stepney and I. Toyn",
+year = "2004",
+volume = "YCS-2003-383",
+journal = "Technical Report, Computer Science, University of York",
+url = {\url{https://www.cs.york.ac.uk/ftpdir/reports/2004/YCS/383/YCS-2004-383.pdf}}
+}
+
+@article{MVC88,
+ author = {Krasner, G. E. and Pope, S. T.},
+ title = {A Cookbook for Using the Model-view Controller User Interface Paradigm in {Smalltalk-80}},
+ journal = {J. Object Oriented Program.},
+ volume = {1},
+ number = {3},
+ year = {1988},
+ pages = {26--49},
+ publisher = {SIGS Publications},
+ } 
+ issue_date = {Aug./Sept. 1988},issn = {0896-8438},numpages = {24},
+ url = {http://dl.acm.org/citation.cfm?id=50757.50759},
+ acmid = {50759},address = {Denville, NJ, USA}, month = aug,
+
+
+ 
+ 
+
+
+@inproceedings{SecurityPatterns,
+author = {Duncan , I. M. M. and de Muijnck-Hughes, J.}, 
+title = {Security pattern evaluation},
+booktitle = {SOSE},
+publisher = {IEEE}, 
+pages = {428--429},
+year = 2014, 
+doi = {10.1109/SOSE.2014.61},
+}{Proceedings -- IEEE 8th International Symposium on Service Oriented System Engineering, SOSE 2014},
+
+@inproceedings{WaniaAtwood,
+ author = {Wania, C. E. and Atwood, M. E.},
+ title = {Pattern Languages in the Wild: Exploring Pattern Languages in the Laboratory and in the Real World},
+ booktitle = {DESRIST},
+ year = {2009},
+ pages = {12:1--12:15},
+ doi = {10.1145/1555619.1555635},
+  publisher = {ACM},
+ }  booktitle = {Proceedings of the 4th International Conference on Design Science Research in Information Systems and Technology},
+series = { '09},
+ location = {Philadelphia, Pennsylvania},
+ numpages = {15},
+ url = {http://doi.acm.org/10.1145/1555619.1555635},
+acmid = {1555635},
+address = {New York, NY, USA},
+ keywords = {design patterns, interaction patterns, pattern languages},
+isbn = {978-1-60558-408-9},
+  articleno = {12},
+ 
+
+
+@article{dearden,
+author = {Dearden, A. and Finlay, J.},
+year = {2006},
+pages = {49--102},
+title = {Pattern languages in {HCI}: A critical review},
+volume = {21},
+number = 1,
+journal = {Human-Computer Interaction}
+}month = {03},
+
+
+@book{Gamma,
+ author = {Gamma, E. and Helm, R. and Johnson, R. and Vlissides, J.},
+ title = {Design Patterns: Elements of Reusable Object-oriented Software},
+ year = {1995},
+ isbn = {0-201-63361-2},
+ publisher = {Addison-Wesley},
+} address = {Boston, MA, USA},
+
+
+@article {AlexanderWania,
+author = {Wania, C. E.},
+title = {Investigating an author's influence using citation analyses: {Christopher Alexander (1964 -- 2014)}},
+journal = {Proceedings of the Association for Information Science and Technology},
+volume = {52},
+number = {1},
+pages = {1--10},
+year = {2015},
+}keywords = {Human-computer interaction, scientometrics & scholarly communication},
+issn = {2373-9231},
+url = {http://dx.doi.org/10.1002/pra2.2015.145052010029},
+doi = {10.1002/pra2.2015.145052010029},
+
+
+
+@book{AlexanderBook,
+  author    = {C. Alexander and
+               S. Ishikawa and
+               M. Silverstein and
+               M. Jacobson and
+               I. Fiksdahl{-}King and
+               S. Angel},
+  title     = {A Pattern Language - Towns, Buildings, Construction},
+  publisher = {OUP},
+  year      = {1977},
+  isbn      = {978-0-19-501919-3},
+  timestamp = {Fri, 26 Aug 2011 14:36:49 +0200},
+  biburl    = {http://dblp.org/rec/bib/books/daglib/0022018},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{AlexanderOOPSLA,
+  author    = {C. Alexander},
+  title     = {The Origins of Pattern Theory: The Future of the Theory, and the Generation
+               of a Living World},
+  journal   = {{IEEE} Software},
+  volume    = {16},
+  number    = {5},
+  pages     = {71--82},
+  year      = {1999},
+  url       = {https://doi.org/10.1109/52.795104},
+  doi       = {10.1109/52.795104},
+  timestamp = {Thu, 18 May 2017 09:53:36 +0200},
+  biburl    = {http://dblp.org/rec/bib/journals/software/Alexander99},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@phdthesis{TaromiradPhD,
+	title = {A modelling approach to multi-domain traceability},
+	author = {Masoumeh Taromirad},
+	year = 2015,
+	school = {University of York},
+	url = {tba},
+}
+
+@InProceedings{JCSP,
+  author = 	 {P. Welch and N. Brown and J. Moores and K. Chalmers and B. Sputh},
+  title = 	 {Integrating and extending {JCSP}},
+  booktitle = {CPA},
+  pages = 	 {349--370},
+  year = 	 2007,
+  publisher = {IOS Press}}
+
+@phdthesis{ats-thesis,
+	title = {Process-Oriented Patterns for Concurrent Software Engineering},
+	author = {A. T. Sampson},
+	year = 2010,
+	school = {University of Kent},
+	url = {http://offog.org/publications/ats-thesis.pdf},
+}
+
+@inproceedings{Kitchenham,
+ author = {B. A. Kitchenham and T. Dyba and M. Jorgensen},
+ title = {Evidence-Based Software Engineering},
+ booktitle = {ICSE},
+ year = {2004},
+ pages = {273--281},
+ publisher = {IEEE Computer Society}
+} 
+
+@InProceedings{AldenArg,
+  author = 	 {K. Alden and P. Andrews and J. Timmis and H. Veiga-Fernandes and M. C. Coles.},
+  title = 	 {Towards Argument-Driven Validation of an in-silico Model of Immune Tissue Organogenesis},
+  booktitle = {ICARIS},
+  pages = 	 {66--70},
+  year = 	 2011,
+  volume = 	 6825,
+  series = 	 {LNCS},
+  publisher = {Springer}}
+
+.  Extended Abstract in LNCS 6826, pp:66-70.
+
+
+@incollection{EGL,
+year={2008},
+booktitle={Model Driven Architecture – Foundations and Applications},
+volume={5095},
+series={LNCS},
+title={The Epsilon Generation Language},
+url={http://dx.doi.org/10.1007/978-3-540-69100-6_1},
+publisher={Springer},
+author={Louis M.Rose  and Richard F. Paige and  Dimitrios S. Kolovos and F. A.C. Polack},
+pages={1--16}
+}
+
+
+@Booklet{epsilonBook,
+  title = 	 {The epsilon book},
+  author = 	 {Dimitris Kolovos and Louis Rose and Antonio García-Domínguez and Richard Paige},
+  howpublished = {online},
+  note = 	 {\url{https://www.eclipse.org/epsilon/doc/book/}}}
+
+@inproceedings{Paige2009,
+ author = {Richard F. Paige and Dimitrios S. Kolovos and Louis M. Rose and Nicholas Drivalos  and F. A. C. Polack},
+ title = {The Design of a Conceptual Framework and Technical Infrastructure for Model Management Language Engineering},
+ booktitle = {ICECCS},
+ year = {2009},
+ pages = {162--171},
+  url = {http://dx.doi.org/10.1109/ICECCS.2009.14},
+ publisher = {IEEE Computer Society},
+} 
+
+
+@Article{MDEtransf,
+  author = 	 {K. Czarnecki and S. Helsen},
+  title = 	 {Feature-based survey of model transformation approaches},
+  journal = 	 {IBM Systems Journal},
+  year = 	 2006,
+  volume = 	 45,
+  number = 	 3,
+  pages = 	 {621 -- 645},
+  note = 	 {doi: 10.1147/sj.453.0621}}
+
+@Article{NACO14background,
+  author = 	 {F. A. C. Polack},
+  title = 	 {Filling gaps in Simulation of Complex systems: the
+Background and Motivation for {CoSMoS}},
+  journal = 	 {Natural Computing},
+  year = 	 2015,
+number = 1,
+Volume = 14,
+pages = {49--62},
+doi = {10.1007/s11047-014-9462-5}
+}
+
+Filling gaps in Simulation of Complex systems: the
+Background and Motivation for CoSMoS
+F. Polack
+
+@Article{NACO14Alkan,
+ author = 	 {F. A. C. Polack and A. P. Droop},
+  title = 	 {Principled Simulation of Cell Proliferation Dynamics using the {CoSMoS} Approach},
+  journal = 	 {Natural Computing},
+  year = 	 2015,
+number = 1,
+Volume = 14,
+pages = {63--82},
+doi = {10.1007/s11047-014-9468-z}
+}
+
+
+
+@TechReport{PlotkinFull,
+  author = 	 {G. D. Plotkin},
+  title = 	 {A structural approach to operational semantics},
+  institution =  {Computer Science Department, Aarhus University},
+  year = 	 1981,
+  number = 	 { DAIMI FN-19},
+  note = 	 {\url{homepages.inf.ed.ac.uk/gdp/publications/sos_jlap.pdf}}
+}
+
+
+@Article{PlotkinShort,
+  author = 	 {G. D. Plotkin},
+  title = 	 {A structural approach to operational semantics},
+  journal = 	 {The Journal of Logic and Algebraic Programming},
+  year = 	 2004,
+  volume = 	 {60--61},
+  pages = 	 {3--15}}
+
+G.D. Plotkin, A structural approach to operational semantics
+The Journal of Logic and Algebraic Programming 60--61 2004 3--15
+
+@article{Rusu13,
+  author    = {Vlad Rusu},
+  title     = {Embedding domain-specific modelling languages in Maude specifications},
+  journal   = {Software and System Modeling},
+  volume    = {12},
+  number    = {4},
+  year      = {2013},
+  pages     = {847--869}
+ }
+
+
+@inproceedings{Wachsmuth08,
+ author = {Guido Wachsmuth},
+ title = {Modelling the Operational Semantics of Domain-Specific Modelling Languages},
+ booktitle = {Generative and Transformational Techniques in Software Engineering II},
+ year = {2008},
+ pages = {506--520},
+ publisher = {Springer},
+  series = {LNCS},
+volume = 5235
+} 
+
+@Misc{riskurl,
+  author = 	 {HSE},
+  note = 	 {\url{http://www.hse.gov.uk/risk/index.htm}, cited 26 February 2014}}
+
+@Misc{aceurl,
+  author = 	 {ACE},
+  note = 	 {\url{http://www.econ.iastate.edu/tesfatsi/ace.htm}, cited 26 February 2014}}
+
+@Misc{masonurl,
+  author = 	 {MASON},
+  note = 	 {\url{http://cs.gmu.edu/~eclab/projects/mason/}, cited 26 February 2014}}
+
+
+@Misc{flameurl,
+  author = 	 {Flame},
+  note = 	 {\url{http://www.flame.ac.uk/docs/overview.html}, cited 26 February 2014}}
+
+@Misc{openabm,
+  author = {OpenABM},
+  note = 	 {\url{http://www.openabm.org/}, cited 26 February 2014}}
+
+@Misc{wholecellurl,
+  author = 	 {WholeCell},
+  note = 	 {\url{https://simtk.org/home/wholecell}, cited 26 February 2014}
+}
+
+
+
+@Misc{openworm,
+  author = 	 {OpenWorm},
+  note = 	 {\url{http://www.artificialbrains.com/openworm}, cited 26 February 2014}}
+
+@Misc{artoo,
+  author = 	 {YCIL},
+  title = 	 {Artoo Argumentation Tool},
+  note = 	 {\url{http://www-users.cs.york.ac.uk/~psa/arg-tool/argumentation.html}, cited 26 February 2014}
+}
+
+@Article{garnett-bio,
+  author = 	 {P. Garnett and A. Steinacher and S. Stepney and R. Clayton and O. Leyser},
+  title = 	 {Computer simulation: the imaginary friend of auxin transport biology},
+  journal = 	 {BioEssays news and reviews in molecular cellular and developmental biology},
+  year = 	 2010,
+  volume = 	 32,
+  number = 	 9,
+  pages = 	 {828--835}}
+
+Garnett, P., Steinacher, A., Stepney, S., Clayton, R. & Leyser, O. (2010). Computer simulation: the imaginary friend of auxin transport biology. BioEssays news and reviews in molecular cellular and developmental biology 32(9): 828-835.
+
+
+@InProceedings{garnett2010,
+  author = 	 {P. Garnett and S. Stepney and F. Day and O. Leyser},
+  title = 	 {Using the {CoSMoS} Process to Enhance an Executable Model of Auxin Transport Canalisation},
+  booktitle = {Workshop on Complex Systems Modelling and Simulation},
+  pages = 	 {9--32},
+  year = 	 2010,
+  publisher = {Luniver Press}}
+
+
+@InProceedings{forrester,
+  author = 	 {J. M. Forrester and R. B. Greaves and F. A. C. Polack},
+  title = 	 {{CoSMoS} in the Context of Social Ecological Research},
+  booktitle = {Workshop on Complex Systems Modelling and Simulation},
+  pages = 	 {47--76},
+  year = 	 2012,
+  publisher = {Luniver Press}}
+
+
+
+
+@Article{moyo-granuloma,
+  author = 	 {J. Moore and D. Moyo and L. Beattie and P. Andrews and J. Timmis and P. Kaye},
+  title = 	 {Functional complexity of the {Leishmania} granuloma and the potential of in silico modelling},
+  journal = 	 {Front. Immun.},
+  year = 	 2013,
+  volume = 	 4,
+  number = 	 35,
+  note = 	 {doi: 10.3389/fimmu.2013.00035}}
+
+Functional complexity of the Leishmania granuloma and the potential of in silico modelling. J. Moore, D. Moyo, L. Beattie, P. Andrews, J. Timmis and P. Kaye. Front. Immun. 4:35. doi: 10.3389/fimmu.2013.00035
+
+
+
+
+
+@Article{williamsEAE,
+  author = 	 {R. A. Williams and R. Greaves and M. Read and J. Timmis and P. S. Andrews and V. Kumar},
+  title = 	 {In silico investigation into dendritic cell regulation of {CD8Treg} mediated killing of {Th1} cells in murine experimental autoimmune encephalomyelitis},
+  journal = 	 {BMC Bioinformatics},
+  year = 	 2013,
+  volume = 	 14,
+  pages = 	 {S6--S9},
+  doi = {doi.org/10.1186/1471-2105-14-S6-S9}
+  }
+
+
+
+
+@Article{greavesEAE,
+  author = 	 {R. B. Greaves and M. Read and J. Timmis and P. S. Andrews and J. A. Butler and B. Gerckens and V. Kumar},
+  title = 	 {In silico investigation of novel biological pathways: the role of {CD200} in regulation of {T cell} priming in Experimental Autoimmune Encephalomyelitis},
+  journal = 	 {Biosystems},
+  year = 	 2013,
+  note = 	 {doi: 10.1016/j.biosystems.2013.03.007}}
+
+
+@inProceedings{greavesEAE2,
+year=2012,
+booktitle={Information Processing in Cells and Tissues},
+volume=7223,
+series={LNCS},
+title={Extending an Established Simulation: Exploration of the Possible Effects Using a Case Study in Experimental Autoimmune Encephalomyelitis},
+
+publisher={Springer},
+author={R. B. Greaves  and M. Read and J. Timmis and P. S. Andrews and V. Kumar},
+pages={150--161}
+}
+
+
+@Article{ReadSen,
+  author =	 {M Read and P. S. Andrews and J. Timmis and V. Kumar},
+  title =	 {Techniques for Grounding Agent-Based Simulations in the Real Domain: a case study in Experimental Autoimmune Encephalomyelitis},
+  journal =	 {Mathematical and Computer Modelling of Dynamical
+                  Systems},
+  volume = 18,
+  number = 1,
+  pages = {67--86},
+  year =	 2012
+}
+
+@InProceedings{cosmos-patterns,
+  author = 	 {S. Stepney},
+  title = 	 {A Pattern Language for Scientific Simulations},
+  booktitle = {CoSMoS Workshop},
+  pages = 	 {77--103},
+  year = 	 2012,
+  publisher = {Luniver Press}}
+
+S. Stepney. 
+. 
+, Orleans, France, September 2012, pp77-103. Luniver Press 2012
+
+@InProceedings{cosmos2011,
+  author = 	 {P. S. Andrews and S. Stepney and T. Hoverd and F. A. C. Polack and A. T. Sampson and J. Timmis},
+  title = 	 {{CoSMoS} process, models and metamodels},
+  booktitle = {CoSMoS Workshop},
+  pages = 	 {1--14},
+  year = 	 2011,
+  publisher = {Luniver Press}}
+
+CoSMoS process, models and metamodels. P. S. Andrews, S. Stepney, T. Hoverd, F. A. C. Polack, Adam T. Sampson and J. Timmis. In Proceedings of the 2011 Workshop on Complex Systems Modelling and Simulation pp. 1 — 14 Luniver Press 
+
+@InBook{Maitland13,
+  author = 	 { N. J. Maitland},
+  title = 	 {{D. J. Tindall} (ed): Prostate Cancer: Biochemistry, Molecular Biology and Genetics},
+  chapter = 	 {Stem cells in the normal and malignant prostate},
+  publisher = 	 {Mayo Clinic},
+  year = 	 2013,
+  number = 	 { 16},
+  series = 	 {Protein Reviews},
+  note = 	 {DOI 10.10007/978-1-4614-6828-8\_1}
+}
+
+(2013) Stem cells in the normal and malignant prostate.  D J Tindall (Editor), Prostate Cancer: Biochemistry, Molecular Biology and Genetics, Protein Reviews 16, DOI 10.10007/978-1-4614-6828-8_1 Mayo Clinic
+
+@Article{Maitland07,
+  author = 	 {N. J. Maitland and A. T. Collins},
+  title = 	 {Prostate Cancer Stem Cells: A New Target for Therapy },
+  journal = 	 {J. Clinical Oncology},
+  year = 	 2008,
+  volume = 	 26,
+  number = 	 17,
+  pages = 	 {2862--2870},
+  annote = 	 {10.1200/JCO.2007.15.1472}
+}
+
+, Hugues Bersini, D. Klatzmann, Vernique Thomas-Vaslin, Adrien Six: . ICARIS 2011: 44-50
+
+
+@InProceedings{BersiniState,
+   author = 	 {C. H. McEwan and D. Klatzmann and V.  Thomas-Vaslin
+                  and A. Six},
+  title = 	 {Refitting {Harel} Statecharts for Systemic Mathematical Models in Computational Immunology},
+  booktitle = {ICARIS},
+  year = 	 2011,
+  volume = 	 6825,
+  series = 	 {LNCS},
+  publisher = {Springer}}
+
+
+ 
+
+ @article{ATest,
+     title = {A Critique and Improvement of the {CL} Common Language Effect Size Statistics of {McGraw and Wong}},
+     author = {A. Vargha and H. D. Delaney},
+     journal = {J. Educational and Behavioral Statistics},
+     volume = {25},
+     number = {2},
+     year = {2000},
+     pages = {101--132},
+     annotate = {\url{http://www.jstor.org/stable/1165329}},
+    }
+
+@InProceedings{SSODD,
+  author = 	 {S. Stepney},
+  title = 	 {{CoSMoS} simulation experiment reproducibility and the {ODD} protocol},
+  booktitle = {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages = 	 {93--107},
+  year = 	 2013,
+  publisher = {Luniver Press}}
+
+
+
+@Article{Naylor,
+  author = 	 {T. H. Naylor and J. M. Finger},
+  title = 	 {Verification of Computer Simulation Models},
+  journal = 	 {Management Science},
+  year = 	 1967,
+  volume = 	 14,
+  number = 	 2,
+  pages = 	 {B-92-–B-101},
+  annotate = 	 {\url{http://pubsonline.informs.org/doi/pdf/10.1287/mnsc.14.2.B92}}}
+
+@InProceedings{TG-valid,
+  author = 	 {T. Ghetiu and F. A.C. Polack and J. Bown},
+  title = 	 {Argument-driven validation of computer simulations -- a necessity rather than an option},
+  booktitle = {VALID},
+publisher = {IEEE},
+pages = {1--4},
+  year = 	 2010}
+
+
+
+
+@Article{BersiniJASSS,
+  author = 	 {H. Bersini},
+  title = 	 {{UML} for {ABM}},
+  journal = 	 {Journal of Artificial Societies and Social Simulation},
+  year = 	 2012,
+  volume = 	 15,
+  number = 	 1}
+
+@InProceedings{BersiniICARIS,
+  author = 	 {H. Bersini},
+  title = 	 {Immune systems modeling: the {OO} way},
+  booktitle = {ICARIS},
+  pages = 	 {151--163},
+  year = 	 2006,
+  volume = 	 4163,
+  series = 	 {LNCS},
+  publisher = {Springer}}
+
+doi:10.1371/journal.pcbi.1003334
+
+
+@Article{Luca2013,
+  author = 	 {L. Albergante and J. Timmis and L. Beattie and P. M. Kaye},
+  title = 	 {A {Petri} Net Model of Granulomatous Inflammation: Implications for {IL-10} Mediated Control of
+{Leishmania donovani} Infection},
+  journal = 	 {PLoS Comp. Bio.},
+  year = 	 2013,
+  volume = 	 9,
+  number = 	 11,
+  pages = 	 {e1003334},
+  annotate = 	 {\url{doi:10.1371/journal.pcbi.1003334}}}
+
+
+@Article{Ritson2010,
+  author = 	 {Carl G. Ritson and Peter H. Welch },
+  title = 	 {A Process-Oriented Architecture for Complex System Modelling},
+  journal = 	 {Concurrency and Computation: Practice and Experience},
+  year = 	 2010,
+  volume = 	 22,
+  pages = 	 {182--196}}
+
+
+
+
+@Misc{PNStandard2,
+   key = {iso2},
+  title = 	 {Software and Systems Engineering -- {High-level Petri Nets}
+{Part 2}: Transfer Format}},
+  howpublished = {International Standard ISO/IEC 15909},
+  year = 	 2005,
+  note = 	 {WD 15909-2:2005(E): \url{www.petrinets.info/docs/ISO-IEC15909-2.WD.V0.9.0.pdf}}
+
+@inproceedings{HillahKPT10,
+  author    = {L-M. Hillah and
+               F. Kordon and
+               L. Petrucci and
+               N. Tr{\`e}ves},
+  title     = {{PNML} Framework: An Extendable Reference Implementation of
+               the {Petri Net Markup Language}},
+  booktitle = {Petri Nets},
+  year      = {2010},
+  pages     = {318 -- 327},  
+  publisher = {Springer},
+  series    = {LNCS},
+  volume    = {6128}
+}
+
+@TechReport{HillahPN6,
+  author = 	 {L. Hillah and F. Kordon and L. Petrucci and N. Tr{\`e}ves},
+  title = 	 {Building an {API} for {ISO/IEC} 15909, based on
+model engineering techniques},
+  institution =  {{MeFoSyLoMa}},
+  year = 	 2005,
+  note = 	 {\url{www.mefosyloma.fr/pdf/ISO-IEC-15909/pnNewsLetter6.pdf}}
+}
+
+@InProceedings{HillahTut,
+  author = 	 {L. M. Hillah and E. Kindler and F. Kordon and L. Petrucci and N. Tr{\`e}ves},
+  title = 	 {The {Petri Net Markup Language} and {ISO/IEC} 15909-2},
+  booktitle = {Workshop and Tutorial on Practical Use of Coloured {Petri} Nets and the {CPN} Tools},
+  year = 	 2009,
+  organization = {Aarhus University},
+  note = 	 {\url{http://cs.au.dk/cpnets/workshops/2009/}}
+}
+
+@InProceedings{biopns,
+  author = 	 {M. Heiner and D. Gilbert},
+  title = 	 {How Might {Petri} Nets Enhance Your Systems Biology Toolkit},
+  booktitle = {Petri Nets},
+  pages = 	 {17--37},
+  year = 	 2011,
+  volume = 	 6709,
+  series = 	 {LNCS},
+  publisher = {Springer}}
+
+@Article{Ruths,
+  author = 	 {D. Ruths and M. Muller and J.T.  Tseng and L. Nakhleh and P.T. Ram},
+  title = 	 {The signaling {Petri} net-based simulator: a non-parametric strategy for characterizing the dynamics of cell-specific signaling networks},
+  journal = 	 {PLoS. Comp. Bio.},
+  year = 	 2008,
+  volume = 	 4,
+  number = 	 3}
+
+
+
+
+@Article{Materi,
+  author = 	 {Wayne Materi and D. S Wishart},
+  title = 	 {Computational systems biology in cancer: Modeling
+methods and applications},
+  journal = 	 {Gene Regulation and Systems Biology},
+  year = 	 2007,
+  volume = 	 1,
+  pages = 	 {91--110}}
+
+@InProceedings{Glory,
+  author = 	 {P. P. Glory and N. G. D. and J. D. Emerald },
+  title = 	 {Petri net models and non linear genetic diseases.},
+  booktitle = {Bio-Inspired Computing: Theories and Applications},
+  pages = 	{1466--1470},
+  year = 	 2010,
+  publisher = {IEEE}}
+
+
+In Bio-Inspired Computing: Theories and Applications (BIC-TA), 2010, pages 1466–1470.
+IEEE, 2010.
+
+@Article{Chaouiya,
+  author = 	 {Claudine Chaouiya},
+  title = 	 { {Petri} net modelling of biological networks},
+  journal = 	 {Brieﬁngs in Bioinformatics},
+  year = 	 2007,
+  volume = 	 8,
+  number = 	 4,
+  pages = 	 {210--219}}
+
+@InProceedings{read13:_autom,
+  author = 	 {M. Read and M. Tripp and H. Leonova and L. Rose and J. Timmis},
+  title = 	 {Automated calibration of agent-based immunological simulations},
+  booktitle = {ECAL},
+  pages = 	 {874--875 },
+  year = 	 2013,
+  publisher = {MIT Press},
+  note = 	 {\url{http://dx.doi.org/10.7551/978-0-262-31709-2-ch129}}}
+
+
+
+DOI: http://dx.doi.org/10.7551/978-0-262-31709-2-ch129 
+Pages 
+First published 2 September 2013 
+
+@PhdThesis{moyoPhD,
+  author = 	 {Moyo, D.},
+  year = {2014},
+  title = {Investigating The Dynamics of Hepatic Inflammation Through Simulation},
+  School = {University of York},
+  url = {\url{http://etheses.whiterose.ac.uk/6967/}}
+  }
+
+@PhdThesis{readPhD,
+  author = 	 {M. N. Read},
+  title = 	 {Statistical and Modelling Techniques to Build
+                  Confidence in the Investigation of Immunology
+                  through Agent-Based Simulation},
+  school = 	 {University of York},
+  year = 	 2011}
+
+@PhdThesis{aldenPhD,
+  author = 	 {K. Alden},
+  title = 	 {Simulation and Statistical Techniques to Explore Lymphoid Tissue Organogenesis},
+  school = 	 {University of York},
+  year = 	 2012,
+  note = 	 {\url{http://etheses.whiterose.ac.uk/3220/}}
+}
+
+@inproceedings{polack2012choosing,
+  title={Choosing and adapting design notations in the principled development of complex systems simulations for research},
+  author={Polack, Fiona AC},
+  booktitle={Proceedings of the Modelling of the Physical World Workshop},
+  pages={1--6},
+  year={2012}
+}
+@InProceedings{MOTPW,
+  author = 	 {F. A. C. Polack},
+  title = 	 {Choosing and adapting design notations in the principled development of complex systems simulations for research},
+  booktitle = {Modelling the Physical World at Models},
+  year = 	 2012,
+  publisher = {ACM Digitial Library},
+  annotate = 	 {\url{https://sites.google.com/site/motpw2012/motpw2012-pre-polack.pdf?attredirects=0}}}
+
+@book{Brambilla,
+title = {Model-driven Software Engineering ({MDSE}) in Practice},
+author = {M. Brambilla and J. Cabot and M. Wimmer},
+edition = {2nd},
+publisher = {Morgan \& Claypool}, 
+year = 2017
+}. ISBN (paperback) 9781627057080. (ebook) 9781627059886
+
+
+@article{spartan-param,
+title ={Applying {Spartan} to Understand Parameter Uncertainty in Simulations},
+author = {K. Alden and M. Read and P. S. Andrews and J. Timmis and M. C. Coles}, 
+journal = {The R Journal},
+year = 2014}
+
+@article{spartan-assump,
+title = {Utilising a Simulation Platform to Understand the Effect of Domain Model Assumptions},
+author = {K. Alden and P. S. Andrews and H. Veiga-Fernandes and J. Timmis and M. C. Coles},
+journal = {Natural Computing},
+volume = 14,
+number = 1,
+pages = {99--107},
+annotate = {doi: 10.1007/s11047-014-9428-7},
+year = 2014}
+
+Easing Parameter Sensitivity Analysis of Netlogo Simulations using Spartan. K.
+Alden, J. Timmis, M.
+C. Coles. Proceedings of the 14th International Conference on the Synthesis and Simulation of Living Systems. MIT Press. doi: 10.7551/978-0-262-32621-6-ch100. 2014
+
+@article{spartan-jnl,
+title = {Extending and Applying {Spartan} to Perform Temporal Sensitivity Analyses for Predicting Changes in Influential Biological Pathways in Computational Models},
+author = {K. Alden and J. Timmis and P. S. Andrews and H. Veiga-Fernandes and M. C. Coles},
+journal = {IEEE Trans. Comp. Bio.},
+volume = 14,
+number = 2,
+pages = {431--422},
+annotate = {doi: 10.1109/TCBB.2016.2527654},
+year = 2016}
+
+
+
+@Article{spartan,
+  author = 	 {K. Alden and M. Read and J. Timmis and P. Andrews and H. Veiga-Frenandes and M. Coles},
+  title = 	 {Spartan: A Comprehensive Tool for Understanding Uncertainty in Simulations of Biological Systems},
+  journal = 	 {PLoS Comp. Bio.},
+  year = 	 2013,
+  volume = 	 9,
+  number = 	 2,
+  annotate = 	 {\url{doi: 10.1371/journal.pcbi.1002916}}
+}
+
+@ARTICLE{aldenFImm,
+   AUTHOR={Alden, K.  and  Timmis, J.  and  Andrews, P. S.  and  Veiga-Fernandes, H.  and  Coles, M. C.},   
+     TITLE={Pairing experimentation and computational modelling to understand the role of tissue inducer cells in the development of lymphoid organs},      
+    JOURNAL={Frontiers in Immunology},      
+    VOLUME={3},      
+    YEAR={2012},      
+    NUMBER={172},     
+    annotate ={\url{doi: 10.3389/fimmu.2012.00172}} 
+}
+
+
+@Article{shoham,
+  author = 	 {Y. Shoham},
+  title = 	 {Agent-oriented programming},
+  journal = 	 {Artificial Intelligence},
+  year = 	 1993,
+  volume = 	 60,
+  pages = 	 {51--92}}
+
+@ARTICLE{Odell02objectsand,
+    author = {J. Odell},
+    title = {Objects and agents compared},
+    journal = {Journal of Object Technology},
+    year = {2002},
+    volume = {1},
+    pages = {41--53}
+}
+
+@inproceedings{2008-two-way-protocols,
+  booktitle =	 {Communicating Process Architectures 2008},
+  author =	 {A. T. Sampson},
+  title =	 {{Two-Way Protocols for occam-$\pi$}},
+  pages =	 {85--97},
+  organization = {WoTUG},
+  publisher =	 {IOS Press},
+  year =	 2008
+}
+
+@Misc{ACE,
+  author =	 {L. Tesfatsion},
+  title =	 {AGENT-BASED COMPUTATIONAL ECONOMICS: A CONSTRUCTIVE
+                  APPROACH TO ECONOMIC THEORY},
+  howpublished =
+                  {\url{http://www2.econ.iastate.edu/tesfatsi/hbintlt.pdf}},
+  year =	 2005,
+  note =	 {Subsequently published in L. Tesfatsion and
+                  K. L. Judd (editors), \emph{Handbook of
+                  Computational Economics}, Vol. 2, Elsevier, 2006}
+}
+
+Scientiae Mathematicae Japonicae Online, e-2006, 765–778 765
+FROM MOLECULES TO INSECT COMMUNITIES - HOW FORMAL
+AGENT BASED COMPUTATIONAL MODELLING IS UNCOVERING
+NEW BIOLOGICAL FACTS
+S. Coakley, R. Smallwood and M. Holcombe
+
+@PhdThesis{Alexander,
+  author =	 {R. Alexander},
+  title =	 {Using Simulation for Systems of Systems Hazard
+                  Analysis},
+  school =	 {Department of Computer Science, University of York},
+  year =	 2007,
+  note = {YCST-2007-21}
+}
+
+@InProceedings{AlexanderCoSMoSPaper,
+  author =	 {R. Alexander and R. Alexander-Bown and T. Kelly},
+  title =	 {Engineering safety-critical complex systems},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {33--63},
+  year =	 2008,
+  publisher =	 {Luniver Press}
+}
+
+
+
+@InProceedings{AlkanDroop,
+  author =	 {A. Droop and P. Garnett and F. A. C. Polack and
+                  S. Stepney},
+  title =	 {Multiple model simulation: modelling cell division
+                  and differentiation in the prostate},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {79 -- 112},
+  year =	 2011,
+  publisher =	 {Luniver Press}
+}
+
+@InProceedings{AlkanPolack,
+  author =	 { F. A. C. Polack and A. Droop and P. Garnett and
+                  T. Ghetiu and S. Stepney},
+  title =	 {Simulation validation: exploring the suitability of
+                  a simulation of cell division and differentiation in
+                  the prostate},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {113 -- 133},
+  year =	 2011,
+  publisher =	 {Luniver Press}
+}
+
+@inproceedings{Allenby,
+  author =	 "K. Allenby and T. P. Kelly",
+  title =	 "Deriving Safety Requirements using Scenarios.",
+  booktitle =	 {Requirements
+                  Engineering (RE'01)},
+  publisher =	 {IEEE Computer Society Press},
+  year =	 2001,
+}
+
+GSN COMMUNITY STANDARD VERSION 1, November 2011, Origin Consulting (York) Limited, on behalf of the Contributors, http://www.goalstructuringnotation.info/
+
+@inproceedings{Andrews.etal08_investigating,
+  author =	 {Andrews, P. and Sampson, A. and Bj{\o}rndalen,
+                  J. and Stepney, S. and Timmis, J. and Warren, D. and
+                  Welch, P.},
+  booktitle =	 {Artificial
+                  Life},
+  citeulike-article-id =3409526,
+  
+  pages =	 {17--24},
+  
+  publisher =	 {MIT Press},
+  title =	 {Investigating patterns for the process-oriented
+                  modelling and simulation of space in complex
+                  systems},
+  url =		 {http://www.alifexi.org/papers/ALIFExi_pp017-024.pdf},
+  year =	 2008
+}
+
+
+
+@Unpublished{Arguments,
+  author =	 {F. Polack},
+  title =	 {Argumentation and the Design of Emergent Systems},
+  note =	 {Working paper, available at
+                  www-users.cs.york.ac.uk/\textasciitilde
+                  fiona/PUBS/Arguments.pdf}
+}
+
+
+
+
+
+@incollection{Ashby70,
+  author =	 {Ashby, W. R.},
+  booktitle =	 {The process of model-building in the behavioural
+                  sciences},
+  publisher =	 {Ohio State University Press},
+  title =	 {Analysis of the system to be modeled},
+  year =	 1970
+}
+
+@inproceedings{Auxin2,
+  author =	 {P. Garnett and S. Stepney and F. Day and O. Leyser},
+  title =	 {Using the {CoSMoS} Process to Enhance an Executable
+                  Model of Auxin Transport Canalisation},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  publisher =	 {Luniver Press},
+  pages =	 {9--32},
+  year =	 2010
+}
+
+@inproceedings{Balan-MASONLibrary,
+  author =	 {G. C. Balan and C. Cioffi-Revilla and S. Luke and
+                  L. Panait and S. Paus},
+  title =	 {{MASON}: A {Java} Multi-Agent Simulation Library},
+  booktitle =	 {Agent 2003 Conference},
+  year =	 2003,
+  publisher =	 {Argonne National Laboratory},
+  url =		 {http://agent2002.anl
+  
+  .gov/Agent2003.pdf}
+}
+
+@inproceedings{BanachZB00,
+  author =	 {R. Banach and M. Poppleton},
+  title =	 {Retrenchment, Refinement and Simulation},
+  booktitle =	 {ZB2000},
+  year =	 2000,
+  publisher =	 {Springer},
+  series =	 {LNCS},
+  volume =	 1878,
+  pages =	 {304--323}
+}
+
+
+
+@inproceedings{Barnes/Welch/Sampson:2005,
+  author =	 {F. R. M. Barnes and P. H. Welch and A. T. Sampson},
+  title =	 {Barrier Synchronisations for \textsf{occam-pi}},
+  year =	 2005,
+  booktitle =	 {{International Conference on Parallel and
+                  Distributed Processing Techniques and Applications
+                  ({PDPTA}'2005)}},
+  pages =	 {20-26},
+  publisher =	 {{CSREA} press},
+}
+
+@inproceedings{Barnes/Welch:2005,
+  author =	 {P. H. Welch and F. R. M. Barnes},
+  title =	 {Communicating Mobile Processes: introducing
+                  \textsf{occam-pi}},
+  year =	 2005,
+  pages =	 {175-210},
+  booktitle =	 {25 Years of {CSP}},
+  series =	 {LNCS},
+  publisher =	 {Springer},
+  volume =	 3525
+}
+
+@book{Begon.etal06,
+  author =	 {Begon, M. and Townsend, C. R. and Harper, J. L.},
+  citeulike-article-id =3875892,
+  citeulike-linkout-0
+                  ={http://books.google.co.uk/books?hl=en&#38;lr=&#38;id=Lsf1lkYKoHEC&#38;oi=fnd&#38;pg=PP7&#38;dq=Ecology:+From+individuals+to+ecosystems&#38;ots=UBJWJaTL4j&#38;sig=bbyhV84Z7s-i5HRoSm1m9NVTYBo},
+  edition =	 {Fourth},
+  keywords =	 {ecology, relevant, review},
+  posted-at =	 {2009-01-12 11:16:20},
+  priority =	 3,
+  publisher =	 {Blackwell Publishing},
+  title =	 {Ecology: From individuals to ecosystems},
+  url =
+                  {http://books.google.co.uk/books?hl=en&#38;lr=&#38;id=Lsf1lkYKoHEC&#38;oi=fnd&#38;pg=PP7&#38;dq=Ecology:+From+individuals+to+ecosystems&#38;ots=UBJWJaTL4j&#38;sig=bbyhV84Z7s-i5HRoSm1m9NVTYBo},
+  year =	 2006
+}
+
+@article{Berger.etal08,
+  author =	 {U. Berger and C. Piou and K. Schiffers and V. Grimm},
+  doi =		 {10.1016/j.ppees.2007.11.002},
+  journal =	 {Perspectives in Plant Ecology, Evolution and
+                  Systematics},
+  title =	 {Competition among plants: Concepts, individual-based
+                  modelling approaches, and a proposal for a future
+                  research strategy},
+  volume =	 {In Press, Corrected Proof},
+  year =	 2008
+}
+
+@InBook{Berlekamp-Conway-Guy,
+  author =	 {E. R. Berlekamp and J. H. Conway and R. K. Guy},
+  title =	 {Winning Ways for Your Mathematical Plays.  Volume 2:
+                  games in particular},
+  chapter =	 25,
+  publisher =	 {Academic Press},
+  year =	 1982
+}
+
+@article{Bown.etal07a,
+  author =	 {J.L. Bown and E.Pachepsky and A. Eberst and
+                  U. Bausenwein and P. Millard and G.R. Squire and
+                  J.W. Crawford},
+  journal =	 {Ecological Modelling},
+  month =	 {October},
+  number =	 {2-4},
+  pages =	 {264--276},
+  posted-at =	 {2008-10-24 08:34:50},
+  priority =	 0,
+  title =	 {Consequences of intraspecific variation for the
+                  structure and function of ecological communities:
+                  Part 1. Model development and predicted patterns of
+                  diversity},
+  volume =	 207,
+  year =	 2007
+}
+
+@Article{Broomhead/and/King:1986,
+  author =	 {D. S. Broomhead and G. P. King},
+  title =	 {Extracting qualitative dynamics from experimental
+                  data},
+  journal =	 {Physica D},
+  year =	 1986,
+  volume =	 20,
+  pages =	 {217--236}
+}
+
+@InProceedings{Bryden,
+  author =	 {J. Bryden and J. Noble},
+  title =	 {Computational modelling, explicit mathematical
+                  treatments, and scientific explanation},
+  booktitle =	 {Artificial Life X},
+  pages =	 {520-526},
+  year =	 2006,
+  publisher =	 {MIT Press}
+}
+
+ 
+ , The Second International Conference on Advances in System Testing and Validation Lifecycle,  2010, August 22-27, 2010 - Nice, France (to appear)
+
+@inproceedings{Bryden&Noble06,
+  abstract =	 {A computer simulation model, can produce some
+                  interesting and surprising results which one would
+                  not expect from initial analysis of the algorithm
+                  and data. We question however, whether the
+                  description of such a computer simulation modelling
+                  procedure (data + algorithm + results) can
+                  constitute an explanation as to why the algorithm
+                  produces such an effect. Specifically, in the field
+                  of theoretical biology, can such a procedure
+                  constitute real scientific explanation of biological
+                  phenomena? We compare computer simulation modelling
+                  to explicit mathematical treatment concluding that
+                  there are fundamental differences between the
+                  two. Since computer simulations can model systems
+                  that mathematical models can not, we look at ways of
+                  improving explanatory power of computer simulations
+                  through empirical style study and mechanistic
+                  decomposition.},
+  author =	 {Bryden, J. and Noble, J.},
+  booktitle =	 {Tenth International Conference on Artificial Life},
+  citeulike-article-id =3505450,
+  citeulike-linkout-0 ={http://eprints.ecs.soton.ac.uk/15242/},
+  keywords =	 {critique, mathematical-modelling, modelling,
+                  simulations},
+  pages =	 {520--526},
+  posted-at =	 {2008-11-12 10:30:13},
+  priority =	 0,
+  publisher =	 {MIT Press},
+  title =	 {Computational modelling, explicit mathematical
+                  treatments, and scientific explanation},
+  url =		 {http://eprints.ecs.soton.ac.uk/15242/},
+  year =	 2006
+}
+
+@proceedings{CPA-2008,
+  booktitle =	 {Communicating Process Architectures 2008},
+  editor =	 {P. H. Welch and S. Stepney and F. A.C. Polack and
+                  F. R.M. Barnes and A. A. McEwan and G. S. Stiles and
+                  J. F. Broenink and A. T. Sampson},
+  volume =	 66,
+  series =	 {Concurrent Systems Engineering},
+  organization = {WoTUG},
+  publisher =	 {IOS Press}
+}
+
+@InCollection{CalderFormal,
+  author =	 {M. Calder and S. Gilmore and J. Hillston and
+                  V. Vyshemirsky},
+  title =	 {Formal methods for biochemical signalling pathways},
+  booktitle =	 {Formal Methods: State of the Art and New Directions},
+  publisher =	 {Springer},
+  year =	 2008,
+}
+
+@article{CalderHillston,
+  author =	 {M. Calder and J. Hillston},
+  title =	 {Process Algebra Modelling Styles for Biomolecular
+                  Processes},
+  journal =	 {Transactions on Computational Systems Biology XI},
+  year =	 2009,
+  publisher =	 {Springer},
+  series =	 {LNCS},
+  volume =	 5750,
+  pages =	 {1--25}
+}
+
+@Article{CalderRKIP,
+  author =	 {M. Calder and S. Gilmore and J. Hillston},
+  title =	 {Modelling the influence of {RKIP} on the {ERK}
+                  signalling pathway using the stochastic process
+                  algebra {PEPA}},
+  journal =	 {Transactions on Computational Systems Biology VII},
+  year =	 2006,
+  volume =	 4230,
+  publisher =	 {Springer},
+  pages =	 {1-23}
+}
+
+@inproceedings{CoSMoS-2008-10-K1,
+  author =	 {A. T. Sampson and J. M. Bj{\o}rndalen and P. S.
+                  Andrews},
+  title =	 {{Birds on the Wall}: Distributing a Process-Oriented
+                  Simulation},
+  booktitle =	 {Congress on Evolutionary Computation},
+  publisher =	 {IEEE Press},
+  year =	 2009,
+  pages =	 {225--231},
+}
+
+@proceedings(CoSMoS08,
+  editor =	 "S. Stepney and F. Polack and Peter Welch",
+  title =	 "Proceedings of the 2008 Workshop on Complex Systems
+                  Modelling and Simulation, York, UK, September 2008",
+  booktitle =	 "Proceedings of the 2008 Workshop on Complex Systems
+                  Modelling and Simulation, York, UK, September 2008",
+  publisher =	 "Luniver Press",
+  year =	 2008
+)
+
+@InCollection{Crutchfield-Mitchell-Das,
+  author =	 {J. P. Crutchfield and M. Mitchell and R. Das},
+  title =	 {The Evolutionary Design of Collective Computation in
+                  Cellular Automata},
+  booktitle =	 {Evolutionary Dynamics.  Exploring the Interplay of
+                  Selection, Neutrality, Accident, and Function},
+  publisher =	 {Oxford University Press},
+  year =	 2002,
+  editor =	 {J. P. Crutchfield and P. K. Schuster}
+}
+
+@InProceedings{Dep,
+  author =	 {G Despotou and T Kelly},
+  title =	 {Design and Development of Dependability Case
+                  Architecture during System Development},
+  booktitle =	 {25th International System Safety Conference},
+  year =	 2007,
+  publisher =	 {System Safety Society}
+}
+
+@Article{EfroniComputer,
+  author =	 {S. Efroni and D. Harel and I. R. Cohen},
+  title =	 {{R}eactive {A}nimation: realistic modeling of
+                  complex dynamic systems},
+  journal =	 {IEEE Computer},
+  year =	 2005,
+  volume =	 38,
+  number =	 1,
+  pages =	 {38--47}
+}
+
+@Article{EfroniPlos,
+  author =	 {S. Efroni and D. Harel and I. R. Cohen},
+  title =	 {Emergent dynamics of thymocyte development and
+                  lineage determination},
+  journal =	 {PLoS Computational Biology},
+  year =	 2007,
+  volume =	 3,
+  number =	 1,
+  pages =	 {0127-0135}
+}
+
+@InProceedings{Epsilon,
+  author =	 {D.S. Kolovos and R.F. Paige and F.A.C. Polack},
+  title =	 {The {E}epsilon {O}abject {L}language ({EOF})},
+  booktitle =	 {Second European Conference on Model-Driven
+                  Architecture},
+  year =	 2006,
+  volume =	 4066,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@InProceedings{Flame,
+  author =	 {S. Coakley and M. Gheorghe and M. Holcombe and
+                  S. Chin and D. Worth and C. Greenough},
+  title =	 {Exploitation of High Performance Computing in the
+                  {FLAME} Agent-Based Simulation Framework},
+  booktitle =	 {High Performance
+                  Computing and Communications },
+  year =	 2012,
+  pages =	 {538--545},
+  publisher =	 {IEEE},
+  annotate =	 {DOI 10.1109/HPCC.2012.79}
+}
+
+
+
+@InProceedings{GSNWilsonConf,
+  author =	 {S. Wilson and J. McDermid and P. Fenelon and
+                  P. Kirkham},
+  title =	 {No More Spineless Safety Cases: A Structured Method
+                  and Comprehensive Tool Support for the Production of
+                  Safety Cases},
+  booktitle =	 {2nd International Conference on Control and
+                  Instrumentation in Nuclear Installations (INEC'95)},
+  year =	 1995
+}
+
+Stephen P. Wilson, J. A. McDermid: Integrated Analysis of Complex Safety Critical Systems. Comput. J. 38(10): 765-776 (1995)  The Computer Journal (1995) 38 (10): 765-776.
+
+
+
+@Article{GSNWilson,
+  author = 	 {S. P. Wilson and J. A. McDermid},
+  title = 	 {Integrated Analysis of Complex Safety Critical Systems},
+  journal = 	 {The Computer Journal},
+  year = 	 {1995},
+  volume = 	 {38},
+  number = 	 {10},
+  pages = 	 {765--776},
+  doi = 	 {10.1093/comjnl/38.10.765}
+}
+
+@TechReport{GSNstandard,
+  author =	 {{Origin Consulting (York)}},
+  title =	 {{GSN} COMMUNITY STANDARD VERSION 1},
+  institution =	 {Department of Computer Science, University of York},
+  year =	 2011,
+  note =	 {\url{http://www.goalstructuringnotation.info}}
+}
+
+@Article{Gardner-1970,
+  author =	 {M. Gardner},
+  title =	 {Mathematical Games: The fantastic combinations of
+                  {J}ohn {C}onway's new solitaire game {``life''}},
+  journal =	 {Scientific American},
+  year =	 1970,
+  volume =	 223,
+  pages =	 {120-123}
+}
+
+@InProceedings{Garnett1,
+  author =	 {P. Garnett and S. Stepney and O. Leyser},
+  title =	 {Integrative Hybrid Modelling of Plant Shoot
+                  Branching},
+  booktitle =	 {Workshop on Functional Structural Plant Models},
+  pages =	 {9.1--9.5},
+  year =	 2007,
+  url =		 {http://www-users.cs.york.ac.uk/\textasciitilde
+                  susan/bib/ss/nonstd/fpsm07.pdf}
+}
+
+
+@InProceedings{GarnettCoSMoS,
+  author =	 {P. Garnett and S. Stepney and O. Leyser},
+  title =	 {Towards an Executable Model of Auxin Transport
+                  Canalisation},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {63--92},
+  year =	 2008,
+  publisher =	 {Luniver Press}
+}
+
+@inproceedings{Ghetiu.etal09,
+  abstract =	 {Complex systems are often simulated to provide a
+                  basis for research or analysis. However, complex
+                  systems simulation often fails to properly
+                  demonstrate that the constructed simulation is an
+                  adequate tool to support investigation of the system
+                  under study. To address this issue, we adopt and
+                  adapt argumentation techniques traditionally used
+                  for safety critical systems (SCS). Here we present
+                  part of an on-going case-study in which these
+                  techniques are used to demonstrate that two
+                  different implementations of a complex system
+                  simulation are adequately equivalent. this is a
+                  first step in producing further simulations of the
+                  system under study, which will be shown to be valid
+                  models on which to explore particular ecological
+                  phenomena.},
+  author =	 {Ghetiu, T. and Alexander, R. D. and Andrews,
+                  P. S. and Polack, F. A. C. and Bown, J.},
+  booktitle =	 {Second Complex Systems Simulation and Modelling
+                  Workshop},
+  citeulike-article-id =5011807,
+  pages =	 {101--129},
+  publisher =	 {Luniver Press},
+  title =	 {Equivalence arguments for complex systems
+                  simulations - a case-study},
+  year =	 2009
+}
+
+@ARTICLE{GirardJ_1995a,
+  author =	 {J. Girard and T. Springer},
+  title =	 {High endothelial venules ({HEV}s): specialized
+                  endothelium for lymphocyte migration},
+  journal =	 {Immunology Today},
+  volume =	 15,
+  pages =	 {449-457},
+  year =	 1995,
+}
+
+@Book{Gordon99,
+  author =	 {D. M. Gordon},
+  title =	 {Ants at Work: how an insect society is organized},
+  publisher =	 {Simon and Schuster},
+  year =	 1999
+}
+
+@Book{Govier,
+  author =	 {T. Govier},
+  title =	 {A practical study of argument},
+  publisher =	 {Wadsworth},
+  year =	 1988
+}
+
+@article{Grimm.etal06,
+  abstract =	 {Simulation models that describe autonomous
+                  individual organisms (individual based models, IBM)
+                  or agents (agent-based models, ABM) have become a
+                  widely used tool, not only in ecology, but also in
+                  many other disciplines dealing with complex systems
+                  made up of autonomous entities. However, there is no
+                  standard protocol for describing such simulation
+                  models, which can make them difficult to understand
+                  and to duplicate. This paper presents a proposed
+                  standard protocol, ODD, for describing IBMs and
+                  ABMs, developed and tested by 28 modellers who cover
+                  a wide range of fields within ecology. This protocol
+                  consists of three blocks (Overview, Design concepts,
+                  and Details), which are subdivided into seven
+                  elements: Purpose, State variables and scales,
+                  Process overview and scheduling, Design concepts,
+                  Initialization, Input, and Submodels. We explain
+                  which aspects of a model should be described in each
+                  element, and we present an example to illustrate the
+                  protocol in use. In addition, 19 examples are
+                  available in an Online Appendix. We consider ODD as
+                  a first step for establishing a more detailed common
+                  format of the description of IBMs and ABMs. Once
+                  initiated, the protocol will hopefully evolve as it
+                  becomes used by a sufficiently large proportion of
+                  modellers.},
+  author =	 {Grimm, V. and Berger, U. and Bastiansen, F. and
+                  Eliassen, S. and Ginot, V. and Giske, J. and
+                  Goss-Custard, J. and Grand, T. and Heinz, S. K. and
+                  Huse, G.},
+  citeulike-article-id =2285571,
+  citeulike-linkout-0
+                  ={http://dx.doi.org/10.1016/j.ecolmodel.2006.04.023},
+  citeulike-linkout-1
+                  ={http://linkinghub.elsevier.com/retrieve/pii/S0304380006002043},
+  citeulike-linkout-2
+                  ={http://www.sciencedirect.com/science/article/B6VBS-4K606T7-3/2/1dad6192bec683f32fce6dee9d665b51},
+  doi =		 {10.1016/j.ecolmodel.2006.04.023},
+  issn =	 03043800,
+  journal =	 {Ecological Modelling},
+  keywords =	 {abm, comparison, ecology, ibm, methodology,
+                  modelling, odd},
+  month =	 {September},
+  number =	 {1-2},
+  pages =	 {115--126},
+  posted-at =	 {2009-06-02 14:01:51},
+  priority =	 3,
+  title =	 {A standard protocol for describing individual-based
+                  and agent-based models},
+  url =		 {http://dx.doi.org/10.1016/j.ecolmodel.2006.04.023},
+  volume =	 198,
+  year =	 2006
+}
+
+@article{Grimm20102760,
+  title =	 "The {ODD} protocol: A review and first update ",
+  journal =	 "Ecological Modelling ",
+  volume =	 221,
+  number =	 23,
+  pages =	 "2760--2768",
+  year =	 2010,
+  doi =
+                  "\url{http://dx.doi.org/10.1016/j.ecolmodel.2010.08.019}",
+  author =	 "V. Grimm and U. Berger and D. L. DeAngelis and
+                  J. G. Polhill and J. G. and S.  F. Railsback",
+}
+
+@article{Grimm99,
+  author =	 {V. Grimm},
+  journal =	 {Ecological Modelling},
+  number =	 {2-3},
+  pages =	 {129--148},
+  publisher =	 {Elsevier},
+  title =	 {Ten years of individual-based modelling in ecology:
+                  what have we learned and what could we learn in the
+                  future?},
+  volume =	 115,
+  year =	 1999
+}
+
+@InProceedings{HarelFBTC,
+  author =	 {D. Harel and Y. Setty and S. Efroni and N. Swerdlin
+                  and I. R. Cohen},
+  title =	 {Concurrency in Biological Modeling: Behavior,
+                  Execution and Visualization},
+  booktitle =	 {FBTC 2007},
+  pages =	 {119-131},
+  year =	 2007,
+  volume =	 194,
+  number =	 3,
+  series =	 {ENTCS},
+  publisher =	 {Elsevier}
+}
+
+@Article{HarelRS,
+  author =	 {I. R. Cohen and D. Harel},
+  title =	 {Explaining a complex living system: dynamics,
+                  multi-scaling and emergence},
+  journal =	 {Journal of the Royal Society Interface},
+  year =	 2007,
+  volume =	 4,
+  publisher =	 {Royal Society Publishing},
+  pages =	 {175-182}
+}
+
+@InCollection{Hawkins,
+  author =	 {R. Hawkins and T. Kelly and J. Knight and
+                  P. Graydon},
+  title =	 {Safety Cases -- A New Approach to Creating Clear
+                  Safety Arguments},
+  booktitle =	 {Advances in Systems Safety: SSS'11},
+  pages =	 {3--23},
+  publisher =	 {Springer},
+  year =	 2011,
+  editor =	 {C. Dale and T. Anderson}
+}
+
+@InProceedings{He-Hoare-Sanders,
+  author =	 {Jifeng He and C. A. R. Hoare and J. W. Sanders},
+  title =	 {Data refinement refined (resum\'e)},
+  booktitle =	 {ESOP'86},
+  pages =	 {187--196},
+  year =	 1986,
+  volume =	 213,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@Article{He-Hoare-Sanders-1987,
+  author =	 {C. A. R. Hoare and Jifeng He and J. W. Sanders},
+  title =	 {Prespecification in Data Refinement},
+  journal =	 {Information Processing Letters},
+  year =	 1987,
+  volume =	 24,
+  number =	 2,
+  pages =	 {71--76}
+}
+
+@Unpublished{Hill-Stepney-Wan,
+  author =	 {M. Hill and S. Stepney and F. Wan},
+  title =	 {The {Game of Life} on Irregular Topologies},
+  note =	 {in preparation},
+  year =	 2005
+}
+@book{FowlerRefactoring,
+ title = {Refactoring: Improving the Design of Existing Code},
+ author = {M. Fowler},
+ year = {1999},
+ publisher = {Addison-Wesley},
+ } isbn = {0-201-48567-2},address = {Boston, MA, USA},
+
+@book{BrownAntiPatterns,
+ author = {Brown, W. H. and Malveau, R. C. and McCormick, H. W. and Mowbray, T. J.},
+ title = {AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis},
+ year = {1998},
+ isbn = {0471197130, 9780471197133},
+ edition = {1st},
+ publisher = {Wiley},
+ } address = {New York, NY, USA},
+
+
+@Book{Hoare,
+  author =	 {C.A.R. Hoare},
+  title =	 {Communicating Sequential Processes},
+  publisher =	 {Prentice-Hall},
+  year =	 1985
+}
+
+@book{Hoare85,
+  author =	 {Hoare, C. A. R.},
+  citeulike-article-id =5083354,
+  isbn =	 {0131532715 : 9780131532717},
+  keywords =	 {file-import-09-07-07},
+  location =	 {Englewood Cliffs, N.J.},
+  posted-at =	 {2009-07-07 07:49:41},
+  priority =	 2,
+  publisher =	 {Prentice/Hall International},
+  series =	 {Prentice-Hall International series in computer
+                  science},
+  title =	 {Communicating sequential processes},
+  year =	 1985
+}
+
+@article{HoareAxiom,
+  author =	 {C. A. R. Hoare},
+  title =	 {An axiomatic basis for computer programming},
+  journal =	 {Communications of the ACM},
+  volume =	 12,
+  number =	 10,
+  year =	 1969,
+  pages =	 {576--580},
+  publisher =	 {ACM}
+}
+
+@inproceedings{Hoverd&Stepney09,
+  author =	 {Hoverd, T. and Stepney, S.},
+  booktitle =	 {Second Complex Systems Simulation and Modelling
+                  Workshop (CoSMoS 2009)},
+  citeulike-article-id =5087797,
+  pages =	 {67--82},
+  posted-at =	 {2009-07-07 17:00:05},
+  publisher =	 {Luniver Press},
+  title =	 {Environment orientation: an architecture for
+                  simulating complex systems},
+  year =	 2009
+}
+
+@InProceedings{ISC04,
+  author =	 {T. Srivatanakul and J. A. Clark and F. Polack},
+  title =	 {Effective security requirements analysis: {HAZOP}
+                  and use cases},
+  booktitle =	 {Information Security: 7th International Conference,
+                  ISC 2004, Palo Alto, CA, USA},
+  pages =	 {416-427},
+  year =	 2004,
+  volume =	 3225,
+  series =	 {LNCS},
+  month =	 {September},
+  publisher =	 {Springer-Verlag Heidelberg},
+  annote =	 {HREF="www.springerlink.com/index/T2LHC2NABXAF8V2W"}
+}
+
+@InProceedings{Iglesias.etal99,
+  author =	 {C. A. Iglesias and M. Garijo and J. C.
+                  Gonz\'{a}lez},
+  booktitle =	 {International Workshop on Intelligent Agents, Agent
+                  Theories, Architectures, and Languages},
+  pages =	 {317--330},
+  title =	 {A Survey of Agent-Oriented Methodologies},
+  year =	 2000,
+  volume =	 1555,
+  series =	 {LNAI},
+  publisher =	 {Springer}
+}
+
+@InProceedings{JADE,
+  author =	 {Mengistu, D. and Tr\"oger, P. and Lundberg, L. and
+                  Davidsson, P.},
+  title =	 {Scalability in Distributed Multi-Agent Based
+                  Simulations: The {JADE} Case},
+  booktitle =	 {Second International Conference on Future Generation
+                  Communication and Networking Symposia},
+  year =	 2008,
+  isbn =	 {978-0-7695-3546-3},
+  pages =	 {93--99},
+  doi =
+                  {http://doi.ieeecomputersociety.org/10.1109/FGCNS.2008.158},
+  publisher =	 {IEEE Computer Society},
+}
+
+@Article{Jacob92a,
+  author =	 {J. Jacob},
+  title =	 {Basic Theorems About Security},
+  journal =	 {Journal of Computer Security},
+  year =	 1992,
+  volume =	 1,
+  number =	 4,
+  pages =	 {385--411}
+}
+
+@BOOK{JanewayCA_2005a,
+  author =	 {C. A. Janeway and P. Travers and M. Walport and
+                  M. J. Shlomchik},
+  title =	 {Immunobiology. The Immune System in Health and
+                  Disease},
+  edition =	 6,
+  publisher =	 {Garland Science Publishing},
+  year =	 2005
+}
+
+@PhdThesis{Jill,
+  author =	 {T. Srivatanakul},
+  title =	 {Security Analysis with Deviational Techniques},
+  school =	 {Department of Computer Science, University of York,
+                  UK},
+  year =	 2005,
+  note =	 {yCST-2005-12}
+}
+
+@PhdThesis{JillPhD,
+  author =	 {T. Srivatanakul},
+  title =	 {Security Analysis with Deviational Techniques},
+  school =	 {Department of Computer Science, University of York},
+  year =	 2005,
+  note =	 {YCST-2005-12}
+}
+
+@PhdThesis{KellyPhD,
+  author =	 {T. P. Kelly},
+  title =	 {Arguing safety -- a systematic approach to managing
+                  safety cases},
+  school =	 {Department of Computer Science, University of York},
+  year =	 1999,
+  note =	 {YCST 99/05}
+}
+
+@TechReport{KentSim,
+  author =	 {C. Ritson},
+  title =	 {Technical Report: A Process Orientated Biological
+                  Simulation using occam-$\pi$},
+  institution =	 {Computer Science Systems Research Group, University
+                  of Kent},
+  year =	 2006,
+  note =	 {ftp:ftp.cs.ukc.ac.uk/pub/phw/tuna/carl-report.pdf}
+}
+
+@article{Kumar,
+  author =	 {V. Kumar and J. Maglione and J. Thatte and
+                  B. Pederson and E. Sercarz and and E. S. Ward},
+  title =	 {Induction of a type 1 regulatory {CD4} {T} cell
+                  response following {V}$\beta$8.2 {DNA} vaccination
+                  results in immune deviation and protection from
+                  experimental autoimmune encephalomyelitis},
+  journal =	 {International Immunology},
+  year =	 2001,
+  volume =	 13,
+  number =	 6,
+  pages =	 {835--841}
+}
+
+@Article{KuppersJASSS,
+  author =	 {G. K\"{u}ppers and J. Lenhard},
+  title =	 {Validation of Simulation: Patterns in the Social and
+                  Natural Sciences},
+  journal =	 {Journal of Artificial Societies and Social
+                  Simulation},
+  year =	 2005,
+  volume =	 8,
+  number =	 4
+}
+
+@article{Lavorel&Garnier02,
+  abstract =	 {The concept of plant functional type proposes that
+                  species can be grouped according to common responses
+                  to the environment and/or common effects on
+                  ecosystem processes. However, the knowledge of
+                  relationships between traits associated with the
+                  response of plants to environmental factors such as
+                  resources and disturbances (response traits), and
+                  traits that determine effects of plants on ecosystem
+                  functions (effect traits), such as biogeochemical
+                  cycling or propensity to disturbance, remains
+                  rudimentary.  We present a framework using concepts
+                  and results from community ecology, ecosystem
+                  ecology and evolutionary biology to provide this
+                  linkage. Ecosystem functioning is the end result of
+                  the operation of multiple environmental filters in a
+                  hierarchy of scales which, by selecting individuals
+                  with appropriate responses, result in assemblages
+                  with varying trait composition. Functional linkages
+                  and trade-offs among traits, each of which relates
+                  to one or several processes, determine whether or
+                  not filtering by different factors gives a match,
+                  and whether ecosystem effects can be easily deduced
+                  from the knowledge of the filters.  To illustrate
+                  this framework we analyse a set of key environmental
+                  factors and ecosystem processes. While traits
+                  associated with response to nutrient gradients
+                  strongly overlapped with those determining net
+                  primary production, little direct overlap was found
+                  between response to fire and flammability.  We
+                  hypothesize that these patterns reflect general
+                  trends. Responses to resource availability would be
+                  determined by traits that are also involved in
+                  biogeochemical cycling, because both these responses
+                  and effects are driven by the trade-off between
+                  acquisition and conservation. On the other hand,
+                  regeneration and demographic traits associated with
+                  response to disturbance, which are known to have
+                  little connection with adult traits involved in
+                  plant ecophysiology, would be of little relevance to
+                  ecosystem processes.  This framework is likely to be
+                  broadly applicable, although caution must be
+                  exercised to use trait linkages and trade-offs
+                  appropriate to the scale, environmental conditions
+                  and evolutionary context. It may direct the
+                  selection of plant functional types for vegetation
+                  models at a range of scales, and help with the
+                  design of experimental studies of relationships
+                  between plant diversity and ecosystem properties.},
+  address =	 {Centre d Ecologie Fonctionnelle et Evolutive, CNRS
+                  UPR 9056, 1919 route de Mende, 34293 Montpellier
+                  Cedex 5, France},
+  author =	 {Lavorel, S. and Garnier, E.},
+  citeulike-article-id =3728144,
+  citeulike-linkout-0
+                  ={http://dx.doi.org/10.1046/j.1365-2435.2002.00664.x},
+  citeulike-linkout-1
+                  ={http://www3.interscience.wiley.com/cgi-bin/abstract/118950521/ABSTRACT},
+  doi =		 {10.1046/j.1365-2435.2002.00664.x},
+  journal =	 {Functional Ecology},
+  keywords =	 {ecology, modelling, plants, relevant,
+                  trait-trade-offs, traits},
+  number =	 5,
+  pages =	 {545--556},
+  posted-at =	 {2008-11-29 20:32:27},
+  priority =	 0,
+  title =	 {Predicting changes in community composition and
+                  ecosystem functioning from plant traits: revisiting
+                  the Holy Grail},
+  url =		 {http://dx.doi.org/10.1046/j.1365-2435.2002.00664.x},
+  volume =	 16,
+  year =	 2002
+}
+
+@ARTICLE{LeyK_2007a,
+  author =	 {Ley, K. and Laudanna, C. and Cybulsky, M. I. and
+                  Nourshargh, S.},
+  title =	 {Getting to the site of inflammation: the leukocyte
+                  adhesion cascade updated},
+  journal =	 {Nature Reviews Immunology},
+  volume =	 7,
+  number =	 9,
+  pages =	 {678--689},
+  year =	 2007,
+}
+
+@INPROCEEDINGS{Liu2007,
+  author =	 {W. Liu and A. F. T. Winfield and J. Sa},
+  title =	 {Modelling Swarm Robotic System: A Case Study in
+                  Collective Foraging},
+  booktitle =	 {Towards Autonomous Robotic Systems},
+  year =	 2007,
+  pages =	 {25 -- 32},
+  url =
+                  {http://www.brl.uwe.ac.uk/projects/swarm/files/liu2007b.pdf}
+}
+
+@inproceedings{Luke-MASONToolkit,
+  author =	 {S. Luke and C. Cioffi-Revilla and L. Panait and
+                  K. Sullivan},
+  title =	 {{MASON}: A New Multi-Agent Simulation Toolkit},
+  booktitle =	 {Swarmfest Workshop},
+  year =	 2004,
+  url =
+                  {http://cs.gmu.edu/~eclab/projects/mason/publications/SwarmFest04.pdf}
+}
+
+@Book{MDDIBM,
+  author =	 {P. Swithinbank and M. Chessell and T. Gardner and
+                  C. Griffin and J. Man and H. Wylie and L. Yusuf},
+  title =	 {Patterns: Model-Driven Development Using {IBM
+                  R}ational {S}oftware {A}rchitect},
+  publisher =	 {IBM Redbook},
+  year =	 2005,
+  note =	 {www.redbooks.ibm.com/abstracts/sg247105.html?Open}
+}
+
+@TechReport{Miller,
+  author =	 {G. F. Miller},
+  title =	 {Artificial life as theoretical biology: How to do
+                  real science with computer simulation},
+  institution =	 {University of Sussex},
+  year =	 1995,
+  number =	 {Cognitive Science Research Paper 378}
+}
+
+@Book{Milner,
+  author =	 {R. Milner},
+  title =	 {The {Pi} Calculus},
+  publisher =	 {Cambridge University Press},
+  year =	 1999
+}%
+
+@article{Milner.etal92,
+  abstract =	 {This is the second of two papers in which we present
+                  the -calculus,a calculus of mobile processes. We
+                  provide a detailed presentation ofsome of the theory
+                  of the calculus developed to date, and in
+                  particularwe establish most of the results stated in
+                  the companion paper.4IntroductionThis is the second
+                  of two papers in which we present the -calculus, a
+                  calculusof mobile processes. The companion paper [2]
+                  contains an introduction tothe calculus through a
+                  sequence of examples, together...},
+  author =	 {Milner, R. and Parrow, J. and Walker, D.},
+  citeulike-article-id =939415,
+  citeulike-linkout-0
+                  ={http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.8193},
+  howpublished = {Available as technical report: ECS-LFCS-89-85/86,
+                  University of Edinburgh, UK},
+  journal =	 {Journal of Information and Computation},
+  keywords =	 {pi-calculus, process-oriented-programming},
+  number =	 {-86},
+  pages =	 {1--77},
+  posted-at =	 {2008-11-07 13:09:13},
+  priority =	 2,
+  title =	 {A Calculus of Mobile Processes, Parts {I} and {II}},
+  url =
+                  {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.8193},
+  volume =	 100,
+  year =	 1992
+}
+
+@InProceedings{Mitchell-Crutchfield-Das,
+  author =	 {M. Mitchell and J. P. Crutchfield and R. Das},
+  title =	 {Evolving cellular automata with genetic algorithms:
+                  A review of recent work},
+  booktitle =	 {EvCA'96},
+  year =	 1996,
+  organization = {Russian Academy of Sciences}
+}
+
+@ARTICLE{MiyasakaM_2004a,
+  author =	 {Miyasaka, M. and Tanaka, T.},
+  title =	 {Lymphocyte trafficking across high endothelial
+                  venules: dogmas and enigmas},
+  journal =	 {Nature Reviews Immunology},
+  volume =	 4,
+  number =	 5,
+  pages =	 {360--370},
+  year =	 2004,
+}
+
+@Book{Morgan-1994,
+  author =	 {C. Morgan},
+  title =	 {Programming from Specifications},
+  publisher =	 {Prentice Hall},
+  year =	 1994,
+  edition =	 {2nd}
+}
+
+@Article{MossJASSS,
+  author =	 {S. Moss},
+  title =	 {Alternative Approaches to the Empirical Validation
+                  of Agent-Based Models},
+  journal =	 {Journal of Artificial Societies and Social
+                  Simulation},
+  year =	 2008,
+  volume =	 11,
+  number =	 1
+}
+
+
+
+@InProceedings{NunoFACS03,
+  author =	 {N. Am\'alio and S. Stepney and F. Polack},
+  title =	 {Modular {UML} Semantics: Interpretations in {Z}
+                  Based on Templates and Generics},
+  booktitle =	 {Workshop on Formal Aspects of Component Software,
+                  FME2003, Pisa, Italy},
+  year =	 2003
+}
+
+@Book{OMT,
+  author =	 {J. Rumbaugh and M. Blaha and W. Premerlani and
+                  F. Eddy and W. Lorensen},
+  title =	 {Object-Oriented Modelling and Design},
+  publisher =	 {Prentice Hall},
+  year =	 1991
+}
+
+@InProceedings{PaunovskiCoSMoSPaper,
+  author =	 {O. Paunovski and G. Eleftherakis and T. Cowling},
+  title =	 {Framework for empirical exploration of emergence
+                  using multi-agent simulation},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {1-31},
+  year =	 2008,
+  publisher =	 {Luniver Press}
+}
+
+@inproceedings{Phillips2007,
+  Author =	 {A. Phillips and L. Cardelli},
+  Booktitle =	 {Computational Methods in Systems Biology},
+  Pages =	 {184--199},
+  Title =	 {Efficient, Correct Simulation of Biological
+                  Processes in the Stochastic $\pi$-calculus},
+  Volume =	 4695,
+  Year =	 2007,
+  series =	 {LNBI },
+  publisher =	 {Springer}
+}
+
+@Article{PhysRevE.48.1469,
+  title =	 {Toy model for protein folding},
+  author =	 {Stillinger, F. H. and Head-Gordon, T. and Hirshfeld,
+                  C. L.},
+  journal =	 {Phys. Rev. E},
+  volume =	 48,
+  number =	 2,
+  pages =	 {1469--1477},
+  numpages =	 8,
+  year =	 1993,
+  month =	 {Aug},
+  doi =		 {10.1103/PhysRevE.48.1469},
+  publisher =	 {American Physical Society}
+}
+
+@article{Polack.etal05,
+  address =	 {Berlin / Heidelberg},
+  author =	 {F. Polack and S. Stepney and H. Turner and P. Welch
+                  and F. Barnes},
+  isbn =	 {978-3-540-28848-0},
+  journal =	 {Advances in Artificial Life},
+  pages =	 {433--442},
+  publisher =	 {Springer},
+  title =	 {An Architecture for Modelling Emergence in {CA}-Like
+                  Systems},
+  year =	 2005
+}
+
+@InProceedings{PolackALife,
+  author =	 {F. A. C. Polack and T. Hoverd and A. T. Sampson and
+                  S. Stepney and J. Timmis},
+  title =	 {Complex Systems Models: Engineering Simulations},
+  booktitle =	 {ALife XI},
+  year =	 2008,
+  publisher =	 {MIT press},
+  pages =	 {482--489}
+}
+
+@InProceedings{PolackECAL,
+  author =	 {F. Polack and S. Stepney and H. Turner and P. Welch
+                  and F. Barnes},
+  title =	 {An architecture for modelling emergence in {CA-like}
+                  systems},
+  booktitle =	 {European Conference: Advances in Artificial Life},
+  pages =	 {433-442},
+  year =	 2005,
+  volume =	 3630,
+  series =	 {LNAI },
+  publisher =	 {Springer}
+}
+
+@Article{PolackStepneyRefine05,
+  author =	 {F. Polack and S. Stepney},
+  title =	 {Emergent Properties Do Not Refine},
+  pages =	 {163--181},
+  year =	 2005,
+  volume =	 137,
+  number =	 2,
+  journal =	 {ENTCS},
+  publisher =	 {Elsevier},
+  url =		 {dx.doi.org/10.1016/j.entcs.2005.04.030}
+}
+
+@InProceedings{Prometheus2003,
+  author =	 {L. Padgham and M. Winikoff},
+  title =	 {Prometheus: A Methodology for Developing Intelligent
+                  Agents},
+  booktitle =	 {AOSE},
+  pages =	 {174-185},
+  year =	 2003,
+  volume =	 2585,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@PhdThesis{Pumfrey,
+  author =	 {D. J. Pumfrey},
+  title =	 {The Principled Design of Computer System Safety
+                  Analyses},
+  school =	 {Department of Computer Science, University of York},
+  note =	 {yCST 2000/05},
+  year =	 2000
+}
+
+@InProceedings{REMO2V06,
+  author =	 {F. Polack and T. Srivatanakul and T. Kelly and
+                  J. Clark},
+  title =	 {Deviational analyses for validating regulations on
+                  real systems},
+  booktitle =	 {REMO2V workshop, Proceedings of the CAiSE'06
+                  workshops and doctoral consortium},
+  pages =	 {813-817},
+  year =	 2006,
+  editor =	 {L. Latour and M. Petit},
+  publisher =	 {Presses universitaires de Namur}
+}
+
+
+@article{Regev,
+  author =	 {A. Regev and E. M. Panina and W. Silverman and
+                  L. Cardelli and E. Shapiro},
+  title =	 {Bio{A}mbients: an abstraction for biological
+                  compartments},
+  journal =	 {Theoretical Computer Science},
+  volume =	 325,
+  number =	 1,
+  year =	 2004,
+  pages =	 {141--167},
+  publisher =	 {Elsevier}
+}
+
+@article{Resnick96,
+  abstract =	 {In recent years, there has been a growing
+                  fascination with decentralized systems and
+                  self-organizing phenomena. Increasingly, people are
+                  choosing decentralized models for the organizations
+                  and technologies that they construct in the world
+                  and for the theories that they construct about the
+                  world. However, even as decentralized ideas spread
+                  through the culture, there is a deep-seated
+                  resistance to such ideas. In trying to understand
+                  patterns in the world, people often assume
+                  centralized control where none exists (e.g.,
+                  assuming that a "leader bird" guides the rest of the
+                  flock). To probe how people think about
+                  decentralized systems and to help them develop new
+                  ways of thinking about such systems, I developed a
+                  programmable modeling environment called StarLogo
+                  with which people can easily create and experiment
+                  with decentralized systems. StarLogo allows users to
+                  control the actions and interactions of thousands of
+                  artificial creatures on the computer screen. I
+                  describe three StarLogo projects created by
+                  high-school students. Based on my observations of
+                  these and other students, I analyze the nature of
+                  the centralized mindset, and I discuss how people,
+                  through engagement with new types of computational
+                  tools and activities, can begin to move beyond the
+                  centralized mindset.},
+  author =	 {Resnick, M.},
+  citeulike-article-id =5083049,
+  citeulike-linkout-0 ={http://www.jstor.org/stable/1466757},
+  journal =	 {The Journal of the Learning Sciences},
+  keywords =	 {complex-systems, simulations},
+  number =	 1,
+  pages =	 {1--22},
+  posted-at =	 {2009-07-07 07:07:56},
+  priority =	 2,
+  publisher =	 {Lawrence Erlbaum Associates (Taylor \& Francis
+                  Group)},
+  title =	 {Beyond the Centralized Mindset},
+  url =		 {http://www.jstor.org/stable/1466757},
+  volume =	 5,
+  year =	 1996
+}
+
+@Article{Reynolds-1987,
+  author =	 {C. W. Reynolds},
+  title =	 {Flocks, Herds, and Schools: A Distributed Behavioral
+                  Model ({SIGGRAPH '87})},
+  journal =	 {Computer Graphics},
+  pages =	 {25--34},
+  year =	 1987,
+  volume =	 21,
+  number =	 4,
+  publisher =	 {Elsevier}
+}
+
+@inproceedings{Ritson&Welch07,
+  address =	 {Amsterdam, The Netherlands},
+  author =	 {Ritson, Carl G. and Welch, Peter H.},
+  booktitle =	 {Communicating Process Architectures 2007},
+  citeulike-article-id =3789967,
+  citeulike-linkout-0 ={http://www.cs.kent.ac.uk/pubs/2007/2716},
+  pages =	 {249--266},
+  posted-at =	 {2008-12-15 17:16:01},
+  priority =	 0,
+  publisher =	 {IOS Press},
+  title =	 {A Process-Oriented Architecture for Complex System
+                  Modelling},
+  url =		 {http://www.cs.kent.ac.uk/pubs/2007/2716},
+  volume =	 65,
+  year =	 2007
+}
+
+@inproceedings{Ritson.etal09,
+  abstract =	 {Process-oriented programming is a design methodology
+                  in which software applications are constructed from
+                  communicating concurrent processes. A
+                  process-oriented design is typically composed of a
+                  large number of small isolated concurrent
+                  components. These components allow for the scalable
+                  parallel execution of the resulting application on
+                  both shared-memory and distributed-memory
+                  architectures. In this paper we present a runtime
+                  designed to support process-oriented programming
+                  byproviding lightweight processes and communication
+                  primitives. Our runtimescheduler, implemented using
+                  lock-free algorithms, automaticallyexecutes
+                  concurrent components in parallel on multicore
+                  systems. Runtime heuristics dynamically group
+                  processes into cache-affine work units based on
+                  communication patterns. Work units are then
+                  distributed via wait-free work-stealing. Initial
+                  performance analysis shows that, usingthe algorithms
+                  presented in this paper, process-oriented software
+                  can execute with an efficiency approaching that of
+                  optimised sequential and coarse-grain threaded
+                  designs.},
+  author =	 {Ritson, C. G. and Sampson, A. T. and Barnes,
+                  F. R. M.},
+  booktitle =	 {Coordination Models and Languages, 11th
+                  International Conference, COORDINATION 2009, Lisboa,
+                  Portugal, June 9-12, 2009. Proceedings},
+  citeulike-article-id =4908104,
+  citeulike-linkout-0
+                  ={http://www.cosmos-research.org/docs/coordination2009-ccsp.pdf},
+  comment =	 {"A process-oriented design is typically composed of
+                  a large number of small isolated concurrent
+                  components. These components allow for the scalable
+                  parallel execution of the resulting application on
+                  both shared-memory and distributed-memory
+                  architectures."},
+  editor =	 {Field, J. and Vasconcelos, Vasco T.},
+  keywords =	 {occam-pi, process-oriented-programming},
+  pages =	 {163--183},
+  posted-at =	 {2009-06-19 15:20:29},
+  priority =	 2,
+  publisher =	 {Springer},
+  series =	 {Lecture Notes in Computer Science},
+  title =	 {{M}ulticore {S}cheduling for {L}ightweight
+                  {C}ommunicating {P}rocesses},
+  url =
+                  {http://www.cosmos-research.org/docs/coordination2009-ccsp.pdf},
+  volume =	 5521,
+  year =	 2009
+}
+
+@Article{Ronald-Sipper-Capcarrere,
+  author =	 {E. M. A. Ronald and M. Sipper and
+                  M. S. Capcarr\`ere},
+  title =	 {Design, observation, surprise! A test of emergence},
+  journal =	 {Artificial Life},
+  year =	 1999,
+  volume =	 5,
+  number =	 3,
+  pages =	 {225--239}
+}
+
+@InProceedings{SPTPatts,
+  author =	 {S. Stepney and F. Polack and I. Toyn},
+  title =	 {An outline pattern language for {Z}: five
+                  illustrations and two tables},
+  booktitle =	 {ZB2003},
+  pages =	 {2--19},
+  year =	 2003,
+  volume =	 2651,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@InProceedings{SPTRefactPatts,
+  author =	 {S. Stepney and F. Polack and I. Toyn},
+  title =	 {Patterns to guide practical refactoring: examples targetting promotion in {Z}},
+  booktitle =	 {ZB2003},
+  pages =	 {20--39},
+  year =	 2003,
+  volume =	 2651,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@article(SS-YCS-371,
+  author =	 "J. A. Clark and S. Stepney and H. Chivers",
+  title =	 "Breaking the Model: finalisation and a taxonomy of
+                  security attacks",
+  volume =	 "YCS-2004-371",
+  year =	 2004,
+  journal = "Technical Report, Computer Science, University of York",
+)
+
+@book{SSADM,
+  author =	 {M. Goodland and C. Slater},
+  title =	 {{SSADM} Version 4. A Practical Approach},
+  publisher =	 {McGraw-Hill},
+  year =	 1995
+}
+
+@book{SSADMMANS,
+  author =	 {CCTA},
+  title =	 {{SSADM} Version 4 Reference Manual},
+  publisher =	 {NCC Blackwell Ltd},
+  year =	 1990
+}
+
+@Article{SadotHarel,
+  author =	 {A. Sadot and J. Fisher and D. Barak and Y. Admanit
+                  and M. J. Stern and E. J. A. Hubbard and D. Harel},
+  title =	 {Towards verified biological models},
+  journal =	 {IEEE/ACM Transactions on Computational Biology and
+                  Bioinformatics},
+  publisher =	 {IEEE Computer Society Digital Library,
+                  doi.ieeecomputersociety.org/10.1109/TCBB.2007.1076},
+  year =	 2007
+}
+
+@inproceedings{Sampson.etal09,
+  author =	 {Sampson, A. T. and Bjorndalen, J. M. and Andrews,
+                  P. S.},
+  booktitle =	 {Congress on Evolutionary Computation},
+  citeulike-article-id =4775341,
+  citeulike-linkout-0
+                  ={http://www.cosmos-research.org/docs/cec2009-wall.pdf},
+  keywords =	 {cosmos, occam-pi, process-oriented-programming},
+  pages =	 {225--231},
+  posted-at =	 {2009-06-08 13:45:05},
+  priority =	 2,
+  publisher =	 {IEEE Press},
+  title =	 {Birds on the Wall: Distributing a Process-Oriented
+                  Simulation},
+  url =
+                  {http://www.cosmos-research.org/docs/cec2009-wall.pdf},
+  year =	 2009
+}
+
+@InProceedings{Sargent1985,
+  author =	 {R. G. Sargent},
+  title =	 {An Exposition on Verification and validation of
+                  simulation models},
+  booktitle =	 {17th Winter Simulation Conference},
+  pages =	 {15-22},
+  year =	 1985,
+  publisher =	 {ACM}
+}
+
+@InProceedings{Sargent1986,
+  author =	 {R. G. Sargent},
+  title =	 {The use of graphical models in model validation},
+  booktitle =	 {18th Winter Simulation Conference},
+  pages =	 {237-241},
+  year =	 1986,
+  publisher =	 {ACM}
+}
+
+@InProceedings{Sargent2005,
+  author =	 {R. G. Sargent},
+  title =	 {Verification and validation of simulation models},
+  booktitle =	 {37th Winter Simulation Conference},
+  pages =	 {130-143},
+  year =	 2005,
+  publisher =	 {ACM}
+}
+
+@article{Schmolke2010479,
+  title =	 "Ecological models supporting environmental decision
+                  making: a strategy for the future ",
+  journal =	 "Trends in Ecology and Evolution ",
+  volume =	 25,
+  number =	 8,
+  pages =	 "479--486",
+  year =	 2010,
+  doi =		 "\url{http://dx.doi.org/10.1016/j.tree.2010.05.001}",
+  author =	 "A. Schmolke and P. Thorbek and D. L. DeAngelis and V. Grimm"
+}
+
+@PhdThesis{Shalizi,
+  author =	 {C. R. Shalizi},
+  title =	 {Causal Architecture, Complexity, and
+                  Self-Organization in Time Series and Cellular
+                  Automata},
+  school =	 {Physics Department, University of Wisconsin at
+                  Madison},
+  year =	 2001,
+  annote =	 {http://www.cscs.umich.edu/\textasciitilde
+                  crshalizi/thesis/single-spaced-thesis.pdf}
+}
+
+@Article{ShaliziPRL,
+  author =	 {C. R. Shalizi and K. L. Shalizi and R. Haslinger},
+  title =	 {Quantifying Self-Organization with Optimal
+                  Predictors},
+  journal =	 {Physical Review Letters},
+  year =	 2004,
+  volume =	 93,
+  number =	 11,
+  pages =	 118701,
+  doi =		 {10.1103/PhysRevLett.93.118701},
+  publisher =	 {American Physical Society}
+}
+
+@Article{Smith-1971,
+  author =	 {A. R. Smith},
+  title =	 {Simple Computation-Universal Cellular Spaces},
+  journal =	 {Journal of the ACM},
+  year =	 1971,
+  volume =	 18,
+  number =	 3,
+  pages =	 {339--353 }
+}
+
+@article{Stanislaw86,
+  author =	 {H. Stanislaw},
+  issn =	 {1046-8781},
+  journal =	 {Simulation and Gaming},
+  number =	 2,
+  pages =	 {173--191},
+  publisher =	 {Sage},
+  title =	 {Tests of computer simulation validity: what do they
+                  measure?},
+  volume =	 17,
+  year =	 1986
+}
+
+@InProceedings{Stepney-Cooper,
+  author =	 {S. Stepney and D. Cooper},
+  title =	 {Formal Methods for Industrial Products},
+  booktitle =	 {ZB2000},
+  pages =	 {374--393},
+  year =	 2000,
+  volume =	 1878,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@TechReport{Stepney-Cooper-Woodcock,
+  author =	 {S. Stepney and D. Cooper and J. C. P. Woodcock},
+  title =	 {An Electronic Purse: Specification, Refinement, and
+                  Proof},
+  institution =	 {Oxford University Computing Laboratory},
+  year =	 2000,
+  type =	 {Technical Monograph},
+  number =	 {PRG-126}
+}
+
+@InProceedings{StepneyICECCS,
+  author =	 {S. Stepney and F. Polack and H. Turner},
+  title =	 {Engineering Emergence},
+  booktitle =	 {ICECCS},
+  year =	 2006,
+  pages =	 {89-97},
+  publisher =	 {IEEE Computer Society}
+}
+
+@INPROCEEDINGS{Sudeikat2004,
+  author =	 {J. Sudeikat and L. Braubach and A. Pokahr and W.
+                  Lamersdorf},
+  title =	 {Evaluation of Agent-Oriented Software Methodologies
+                  -- Examination of the Gap Between Modeling and
+                  Platform},
+  booktitle =	 {AOSE},
+  series =	 {LNCS},
+  volume =	 3382,
+  year =	 2004,
+  pages =	 {126--141},
+  publisher =	 {Springer}
+}
+
+@article{Sudicky&McLaren92,
+  author =	 {Sudicky, E. A. and R. G. McLaren},
+  year =	 1992,
+  title =	 {The Laplace Transform Galerkin Technique for
+                  Large-Scale Simulation of Mass Transport in
+                  Discretely Fractured Porous Formations},
+  journal =	 {Water Resour. Res.},
+  volume =	 28,
+  number =	 2,
+  pages =	 {499--514}
+}
+
+
+}
+
+@inproceedings{TUNAopi,
+  author =	 {C. G. Ritson and P. H. Welch},
+  title =	 {A Process-Oriented Architecture for Complex System
+                  Modelling},
+  year =	 2007,
+  pages =	 {249-266},
+  booktitle =	 {Communicating Process Architectures 2007},
+  volume =	 65,
+  publisher =	 {IOS Press},
+}
+
+@Article{TurnerIJUC,
+  author =	 {H. Turner and S. Stepney and F. Polack},
+  title =	 {Rule Migration: Exploring a design framework for
+                  emergence},
+  journal =	 {Int. J. Unconventional Computing},
+  year =	 2007,
+  volume =	 3,
+  number =	 1,
+  pages =	 {49-66},
+  publisher =	 {OCP Science}
+}
+
+@incollection{UTPCSP,
+  author =	 {A. Cavalcanti and J. Woodcock},
+  title =	 {A Tutorial Introduction to {CSP} in {U}nifying
+                  {T}heories of {P}rogramming},
+  booktitle =	 {Refinement Techniques in Software Engineering},
+  series =	 {LNCS},
+  volume =	 3167,
+  pages =	 {220--268},
+  publisher =	 {Springer},
+  year =	 2006
+}
+
+@Book{UTPHe,
+  author =	 {C. Hoare and J. He},
+  title =	 {Unifying Theories of Programming},
+  publisher =	 {Prentice Hall},
+  year =	 1998
+}
+
+@article{UTPHoare,
+  author =	 {C. A. R. Hoare},
+  title =	 {Unifying theories: a personal statement},
+  journal =	 {ACM Computing Surveys},
+  pages =	 46,
+  publisher =	 {ACM},
+  year =	 1996
+}
+
+@incollection{UTParallel,
+  author =	 {J. Woodcock},
+  title =	 {Unifying Theories of Parallel Programming},
+  booktitle =	 {Logic and Algebra for Engineering Software},
+  publisher =	 {IOS Press},
+  year =	 2003
+}
+
+@article{Uchmanski&Grimm96,
+  author =	 {J. Uchmanski and V. Grimm},
+  journal =	 {Trends in Ecology \& Evolution},
+  number =	 10,
+  pages =	 {437--441},
+  title =	 {Individual-based modelling in ecology: what makes
+                  the difference?},
+  url =		 {http://dx.doi.org/10.1016/0169-5347(96)20091-6},
+  volume =	 11,
+  year =	 1996
+}
+
+@Book{UsingUML,
+  author =	 {P. Stevens and R. Pooley},
+  title =	 {Using {UML}},
+  publisher =	 {Pearson},
+  edition =	 {2nd},
+  year =	 2006
+}
+
+@article{WPC,
+  author =	 {E. W. Dijkstra},
+  title =	 {Guarded commands, nondeterminacy and formal
+                  derivation of programs},
+  journal =	 {Communications of the ACM},
+  volume =	 18,
+  number =	 8,
+  year =	 1975,
+  pages =	 {453--457},
+  publisher =	 {ACM}
+}
+
+@article{Wang2006130,
+  title =	 "Ultra large-scale simulation of polymer electrolyte
+                  fuel cells",
+  journal =	 "Journal of Power Sources",
+  volume =	 153,
+  number =	 1,
+  pages =	 "130 - 135",
+  year =	 2006,
+  issn =	 "0378-7753",
+  doi =		 "DOI: 10.1016/j.jpowsour.2005.03.207",
+  url =
+                  "http://www.sciencedirect.com/science/article/B6TH1-4GBWJDP-4/2/98f69bb22e87539ba1cd703a72b2ec75",
+  author =	 "Yun Wang and Chao-Yang Wang",
+  keywords =	 "Computational fuel cell dynamics",
+  keywords =	 "Polymer electrolyte fuel cells",
+  keywords =	 "Large-scale simulation",
+  keywords =	 "Cooling"
+}
+
+@PhdThesis{WeaverPhD,
+  author =	 {R. A. Weaver},
+  title =	 {The Safety of Software -- Constructing and Assuring
+                  Arguments},
+  school =	 {Department of Computer Science, University of York},
+  year =	 2003,
+  note =	 {YCST-2004-01}
+}
+
+@inproceedings{Welch1969,
+  author =	 {F.R.M. Barnes and P.H. Welch},
+  title =	 {{Communicating Mobile Processes}},
+  year =	 2004,
+  pages =	 {201-218},
+  booktitle =	 {Communicating Process Architectures 2004},
+  volume =	 62,
+  publisher =	 {IOS Press}
+}
+
+@inproceedings{WelchCPA08,
+  booktitle =	 {Communicating Process Architectures 2008},
+  author =	 {P.H. Welch and Frederick R.M. Barnes},
+  title =	 {{A CSP Model for Mobile Channels}},
+  pages =	 {17-33},
+  organization = {WoTUG},
+  publisher =	 {IOS Press},
+  year =	 2008
+}
+
+@article{WenguoLiu,
+  author =	 {W. Liu and A. F. T. Winfield and L. Sa and J. Chen
+                  and L. Dou},
+  title =	 {Towards Energy Optimization: Emergent Task
+                  Allocation in a Swarm of Foraging Robots},
+  journal =	 {Adaptive Behavior},
+  volume =	 15,
+  number =	 3,
+  pages =	 {289--305},
+  year =	 2007
+}
+
+@article{Wilensky&Rand07,
+  author =	 {U. Wilensky and W. Rand},
+  journal =	 {Journal of Artificial Societies and Social
+                  Simulation},
+  number =	 4,
+  pages =	 2,
+  title =	 {Making Models Match: Replicating an Agent-Based
+                  Model},
+  url =		 {http://jasss.soc.surrey.ac.uk/10/4/2.html},
+  volume =	 10,
+  year =	 2007
+}
+
+@Article{Wolfram-1983,
+  author =	 {S. Wolfram},
+  title =	 {Statistical Mechanics of Cellular Automata},
+  journal =	 {Reviews of Modern Physics},
+  year =	 1983,
+  volume =	 55,
+  pages =	 {601--644}
+}
+
+@Article{Wolfram-1984,
+  author =	 {S. Wolfram},
+  title =	 {Computation Theory of Cellular Automata},
+  journal =	 {Communications in Mathematical Physics},
+  year =	 1984,
+  volume =	 96,
+  pages =	 {15--57}
+}
+
+@article{Wolpert&Macready02,
+  abstract =	 {A framework is developed to explore the connection
+                  between effective optimization algorithms and the
+                  problems they are solving. A number of ” no free
+                  lunch” (NFL) theorems are presented which establish
+                  that for any algorithm, any elevated performance
+                  over one class of problems is offset by performance
+                  over another class. These theorems result in a
+                  geometric interpretation of what it means for an
+                  algorithm to be well suited to an optimization
+                  problem. Applications of the NFL theorems to
+                  information-theoretic aspects of optimization and
+                  benchmark measures of performance are also
+                  presented. Other issues addressed include
+                  time-varying optimization problems and a priori ”
+                  head-to-head” minimax distinctions between
+                  optimization algorithms, distinctions that result
+                  despite the NFL theorems' enforcing of a type of
+                  uniformity over all algorithms},
+  author =	 {Wolpert, D. H. and Macready, W. G.},
+  citeulike-article-id =404286,
+  citeulike-linkout-0 ={http://dx.doi.org/10.1109/4235.585893},
+  citeulike-linkout-1
+                  ={http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=585893},
+  doi =		 {10.1109/4235.585893},
+  journal =	 {IEEE Transactions on Evolutionary Computation},
+  month =	 {August},
+  number =	 1,
+  pages =	 {67--82},
+  posted-at =	 {2009-10-11 23:03:49},
+  priority =	 2,
+  title =	 {No free lunch theorems for optimization},
+  url =		 {http://dx.doi.org/10.1109/4235.585893},
+  volume =	 1,
+  year =	 2002
+}
+
+@article{Wooldridge.etal00,
+  author =	 {M. Wooldridge and N. R. Jennings. and D. Kinny},
+  journal =	 {Autonomous Agents and Multi-Agent Systems},
+  number =	 3,
+  pages =	 {285--312},
+  publisher =	 {Springer},
+  title =	 {The {Gaia} Methodology for Agent-Oriented Analysis
+                  and Design},
+  volume =	 3,
+  year =	 2000
+}
+
+@InProceedings{Wright,
+  author =	 {W. A. Wright and R. E. Smith and M. Danek and
+                  P. Greenway},
+  title =	 {A Generalisable Measure of Self-Organisation and
+                  Emergence},
+  booktitle =	 {ICANN},
+  year =	 2001,
+  isbn =	 {3-540-42486-5},
+  pages =	 {857--864},
+  publisher =	 {Springer},
+  series =	 {LNCS},
+  volume =	 2130
+}
+
+@Article{Wuensche-1999,
+  author =	 {A. Wuensche},
+  title =	 {Classifying Cellular Automata Automatically: Finding
+                  gliders, filtering, and relating space-time
+                  patterns, attractor basins, and the Z parameter},
+  journal =	 {Complexity},
+  year =	 1999,
+  volume =	 4,
+  number =	 3,
+  pages =	 {47-66}
+}
+
+@Article{XmachineFlame,
+  author =	 {S. Coakley and R. Smallwood and M. Holcombe},
+  title =	 {FROM MOLECULES TO INSECT COMMUNITIES - HOW FORMAL
+                  AGENT BASED COMPUTATIONAL MODELLING IS UNCOVERING
+                  NEW BIOLOGICAL FACTS},
+  journal =	 {Scientiae Mathematicae Japonicae Online},
+  year =	 2006,
+  pages =	 {765--778}
+}
+
+@TechReport{Zeigler,
+  author =	 {B. P. Zeigler},
+  title =	 {A Theory-based Conceptual Terminology for {M}\&{S
+                  VV}\&{A}},
+  institution =	 {Arizona Center for Integrative Modeling and
+                  Simulation},
+  year =	 1999,
+  number =	 {99S-SIW-064},
+  note =
+                  {\url{www.acims.arizona.edu/PUBLICATIONS/publications.shtml}}
+}
+
+@InProceedings{adelfe,
+  author =	 {C. Bernon and M-P. Gleizes and S. Peyruqueou and
+                  G. Picard},
+  booktitle =	 {Engineering Societies in the Agents World},
+  pages =	 {70--81},
+  title =	 {{ADELFE}: A Methodology for Adaptive Multi-agent
+                  Systems Engineering},
+  year =	 2003,
+  volume =	 2577,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@InProceedings{anton,
+  author =	 {A. J. Fl\"ugge and J. Timmis and P. Andrews and
+                  J. Moore and P. Kaye},
+  title =	 {Modelling and Simulation of Granuloma Formation in
+                  Visceral {Leishmaniasis}},
+  booktitle =	 {Congress on Evolutionary Computation},
+  pages =	 {3052--3059},
+  year =	 2009,
+  publisher =	 {IEEE Press}
+}
+
+@Book{beveridge,
+  author =	 {W. I. B Beveridge},
+  title =	 {The art of scientific investigation},
+  publisher =	 {Heinemann Educational},
+  year =	 1957
+}
+
+@article{bishop-bailey,
+  author =	 "Bishop-Bailey, D.",
+  year =	 2009,
+  title =	 "Tumour vascularisation: a druggable target",
+  journal =	 "Current Opinion in Pharmacology",
+  volume =	 9,
+  pages =	 "96--101"
+}
+
+@Book{bon99,
+  author =	 {E.~Bonabeau, M. Dorigo, G. Theraulaz},
+  title =	 {Swarm Intelligence: From Natural to Artificial
+                  Systems},
+  publisher =	 {OUP},
+  year =	 2000
+}
+
+@ARTICLE{clientserver,
+  author =	 {J.M.R. Martin and P.H. Welch},
+  title =	 {A Design Strategy for Deadlock-Free Concurrent
+                  Systems},
+  year =	 1997,
+  journal =	 {Transputer Communications},
+  number =	 4,
+  volume =	 3
+}
+
+@InCollection{deuflhard,
+  author =	 {P. Deuflhard},
+  title =	 {From Molecular Dynamics to Conformation Dynamics in
+                  Drug Design},
+  booktitle =	 {Trends in Nonlinear Analysis},
+  pages =	 {269--288},
+  publisher =	 {Springer},
+  year =	 2003,
+  editor =	 {M. Kirkilionis and S. Kr\"{o}mker and R. Rannacher
+                  and F. Toni},
+  annotate =
+                  {http://books.google.co.uk/books?id=7ZEEkf9XziMC&pg=PA276&lpg=PA276&dq=Trends+in+Nonlinear+Analysis&source=bl&ots=uvgtCba_vK&sig=59DdgEWXvTcjVAunX9iAtsdZVs8&hl=en&ei=eE7YSrj0A9rOjAfwy7ToCA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBMQ6AEwAA#v=onepage&q=&f=false}
+}
+
+@Book{dre91,
+  author =	 {K. E. Drexler and C. Peterson and G. Pergamit},
+  title =	 {Unbounding the Future: the Nanotechnology
+                  Revolution},
+  publisher =	 {Wm Morrow},
+  year =	 1991
+}
+
+@Book{dre92,
+  author =	 {K.~E.~Drexler},
+  title =	 {Nanosystems:~Molecular Machinery, Manufacturing, and
+                  Computation},
+  publisher =	 {Wiley},
+  year =	 1993
+}
+
+@Article{epstein,
+  author =	 {J. M. Epstein},
+  title =	 {Agent-based computational models and generative
+                  social science},
+  journal =	 {Complexity},
+  year =	 1999,
+  volume =	 4,
+  number =	 5,
+  pages =	 {41-60}
+}
+
+@InProceedings{evidence,
+  author =	 {W. Wu and T. Kelly},
+  title =	 {Towards Evidence-Based Architectural Design for
+                  Safety-Critical Software Applications},
+  booktitle =	 {Architecting Dependable Systems},
+  year =	 2007,
+  volume =	 4615,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@TechReport{fre00,
+  author =	 {R.~Freitas},
+  title =	 {Clottocytes:~artificial mechanical platelets},
+  institution =	 {Foresight Update 41},
+  year =	 200,
+  number =	 {IMM Report Number 18: Nanomedicine},
+  annote =	 {www.\-imm.\-org/\-Reports/\-Rep018.\-html}
+}
+
+@Book{fre03,
+  author =	 {R.~Freitas},
+  title =	 {Nanomedicine.  Vol 2A:~Biocompatibility},
+  publisher =	 {Landes Bioscience},
+  year =	 2003
+}
+
+@Article{fre98,
+  author =	 {R.~Freitas},
+  title =	 {Exploratory design in medical nanotechnology:~a
+                  mechanical artificial red blood cell},
+  journal =	 {Artificial Cells, Blood Substitutes, \&
+                  Immobil. Tech.},
+  year =	 1998,
+  volume =	 26,
+  pages =	 {411--430}
+}
+  title =    {Communicating Sequential Processes},
+  publisher =    {Prentice-Hall},
+  year =     1985
+}
+
+@Book{fre99,
+  author =	 {R.~Freitas},
+  title =	 {Nanomedicine.  Vol 1:~Basic Capabilities},
+  publisher =	 {Landes Bioscience},
+  year =	 1999
+}
+
+@InProceedings{hone,
+  author =	 {A. Hone},
+  title =	 {On Non-Standard Numerical Integration Methods for
+                  Biological Oscillators},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {45--66},
+  year =	 2009,
+  publisher =	 {Luniver Press}
+}
+
+@book{humphreys,
+  author =	 {P. Humphreys},
+  title =	 {Extending Ourselves: Computational Science,
+                  Empiricism, and Scientific Method},
+  publisher =	 {OUP},
+  year =	 2004,
+}
+
+@inproceedings{iceccs-phil,
+  author =	 {F. A. C. Polack and P. S. Andrews and T. Ghetiu and
+                  M. Read and S. Stepney and J. Timmis and
+                  A. T. Sampson},
+  title =	 {Reflections on the Simulation of Complex Systems for
+                  Science},
+  booktitle =	 {ICECCS},
+  publisher =	 {IEEE Press},
+  year =	 2010,
+  pages =	 {276--285}
+}
+
+@InProceedings{jillHAZOP,
+  author =	 {J. Srivatanakul, J. A. Clark and F. A. C. Polack},
+  title =	 {Stressing Security Requirements: Exploiting the Flaw
+                  Hypothesis Method with Deviational Techniques},
+  booktitle =	 {Symposium on Requirements Engineering for
+                  Information Security},
+  year =	 2005
+}
+
+@article{kizaka-kondoh,
+  author =	 "Kizaka-Kondoh, S. and Inoue, M. and Harada, H. and
+                  Hiraoka, M.",
+  year =	 2005,
+  title =	 "Tumor hypoxia: A target for selective cancer
+                  therapy",
+  journal =	 "Cancer Science",
+  volume =	 94,
+  number =	 12,
+  pages =	 "1021--1028"
+}
+
+@ARTICLE{leveson,
+  AUTHOR =	 {N. Leveson},
+  TITLE =	 {High-pressure steam engines and computer software},
+  JOURNAL =	 {IEEE Computer},
+  YEAR =	 1994,
+  volume =	 27,
+  number =	 10,
+  pages =	 {65--73}
+}
+
+@Book{lloyd,
+  author =	 {S. Lloyd},
+  title =	 {Programming the Universe: A Quantum Computer
+                  Scientist Takes On the Cosmos},
+  publisher =	 {Vintage},
+  year =	 2005
+}
+
+@Book{medawar,
+  author =	 {P. B. Medawar},
+  title =	 {Induction and Intuition in Scientific Thought},
+  publisher =	 {Methuen},
+  year =	 1969
+}
+
+@InProceedings{mread,
+  author =	 {M. Read and P. S. Andrews and J. Timmis and
+                  V. Kumar},
+  title =	 {Using {UML} to Model {EAE} and its Regulatory
+                  Network},
+  booktitle =	 {ICARIS},
+  year =	 2009,
+  volume =	 5666,
+  series =	 {LNCS},
+  publisher =	 {Springer}
+}
+
+@inproceedings{mread-DM,
+  author =	 {M. Read and P. S. Andrews and J. Timmis and
+                  V. Kumar},
+  title =	 {A Domain Model of {Experimental Autoimmune
+                  Encephalomyelitis}},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {9--44},
+  year =	 2009,
+  publisher =	 {Luniver Press}
+}
+
+@Article{nance,
+  author =	 {R. E. Nance and R. G. Sargent},
+  title =	 {Perspectives on the Evolution of Simulation},
+  journal =	 {Operations Research},
+  year =	 2002,
+  volume =	 50,
+  number =	 1,
+  pages =	 {161--172}
+}
+
+@InProceedings{paolo,
+  author =	 {E. Di Paolo and J. Noble and S. Bullock},
+  title =	 {Simulation models as opaque thought experiments},
+  booktitle =	 {Artificial Life VII},
+  pages =	 {497-506},
+  year =	 2000,
+  publisher =	 {MIT Press}
+}
+
+@Article{perspectives,
+  author =	 {M. Wheeler and S. Bullock and E. Di Paolo and
+                  J. Noble and M. Bedau and P. Husbands and S. Kirby
+                  and A. Seth},
+  title =	 {The view from elsewhere: Perspectives on {ALife}
+                  modelling},
+  journal =	 {Artificial Life},
+  year =	 2002,
+  volume =	 8,
+  number =	 1,
+  pages =	 {87-100},
+  publisher =	 {MIT Press}
+}
+
+@Book{poincare,
+  author =	 {H. Poincar\'e},
+  title =	 {Science and Method},
+  publisher =	 {Dover Publications},
+  year =	 1958,
+  note =	 {transl. F. Maitland, from the French, 1908}
+}
+
+@InProceedings{polackCEC,
+  author =	 {F. A. C. Polack and P. S. Andrews and A. T. Sampson},
+  title =	 {The engineering of concurrent simulations of complex
+                  systems},
+  booktitle =	 {CEC},
+  pages =	 {217--224},
+  year =	 2009,
+  publisher =	 {IEEE Press}
+}
+
+@Book{sensitivity,
+  editor =	 {A. Saltelli and K. Chan and E. M. Scott},
+  title =	 {Sensitivity Analysis: Gauging the Worth of
+                  Scientific Models},
+  publisher =	 {Wiley},
+  year =	 2000
+}
+
+@InProceedings{stage,
+  author =	 {B. Gerkey and R. T. Vaughan and A. Howard},
+  title =	 {The {Player/Stage} Project: Tools for Multi-Robot
+                  and Distributed Sensor Systems},
+  booktitle =	 {International Conference on Advanced Robotics},
+  pages =	 {317--323},
+  year =	 2003,
+  url =
+                  {http://robotics.stanford.edu/~gerkey/research/final_papers/icar03-player.pdf}
+}
+
+@InProceedings{teodor-argument,
+  author =	 {T. Ghetiu and R. D. Alexander and P. S. Andrews and
+                  F. A. C. Polack and J. Bown},
+  title =	 {Equivalence Arguments for Complex Systems
+                  Simulations -­ A Case-Study},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {101-—140},
+  year =	 2009,
+  publisher =	 {Luniver Press},
+  url =
+                  {http://www.cosmos-research.org/docs/cosmos2009-ghetiu.pdf}
+}
+
+@InProceedings{valid-CoSMoS,
+  author =	 {F. A. C. Polack},
+  title =	 {Arguing Validation of Simulations in Science},
+  booktitle =	 {CoSMoS Workshop},
+  year =	 2010,
+  pages =	 {51--74},
+  publisher =	 {Luniver Press}
+}
+
+@Article{wholeCell,
+  author =	 {J. R. Karr and J. C. Sanghvi and D.  N. Macklin and
+                  M. V. Gutschow and J.  M. Jacobs and B. Bolival and
+                  N.  Assad-Garcia and J. I. Glass and M. W. Covert},
+  title =	 {A Whole-Cell Computational Model Predicts Phenotype
+                  from Genotype },
+  journal =	 {Cell},
+  year =	 2012,
+  volume =	 150,
+  number =	 2,
+  pages =	 {389--401},
+  month =	 {July},
+  doi =		 {\url{http://dx.doi.org/doi:
+                  10.1016/j.cell.2012.05.044}}
+}
+
+@InProceedings{workshop-rolling,
+  author =	 {P. S. Andrews and F. Polack and A. T. Sampson and J.
+                  Timmis and L. Scott and M. Coles},
+  title =	 {Simulating biology: towards understanding what the
+                  simulation shows},
+  booktitle =	 {Workshop on Complex Systems Modelling and
+                  Simulation},
+  pages =	 {93-123},
+  year =	 2008,
+  publisher =	 {Luniver Press}
+}
+
+@article{ycsJan2010,
+  author =	 {P. S. Andrews and F. A. C. Polack and A. T. Sampson and S. Stepney and J. Timmis},
+  title =	 {The {CoSMoS Process}, Version 0.1},
+  volume =	 {YCS-2010-450},
+  year =	 2010,
+  journal = "Technical Report, Computer Science, University of York",
+  url = {\url{www.cs.york.ac.uk/ftpdir/reports/2010/YCS/453/YCS-2010-453.pdf}}
+}
+
+@InProceedings{roles,
+  author = 	 {C. Y. Laporte and M. Doucet and P. Bourque1 and Y. Belk\'ebir},
+  title = 	 {Utilization of a Set of Software Engineering Roles for a Multinational
+Organization},
+  booktitle = {PROFES},
+  year = 	 2007,
+  volume = 	 4589,
+  series = 	 {LNCS},
+  publisher = {Springer}}
+
+
+
+@Article{simbiology,
+  author = 	 {T. Katsube and Y. Yano and T. Wajima and Y. Yamano and M. Takano},
+  title = 	 {Pharmacokinetic/pharmacodynamic modeling and simulation to determine effective dosage regimens for doripenem},
+  journal = 	 {Journal of Pharmaceutical Sciences},
+  year = 	 2010,
+  volume = 	 99,
+  number = 	 5,
+  pages = 	 {2483--91},
+  annote = 	 {SimBiology (matlab)}
+}
+
+@Article{circuit,
+  author = 	 {K. W. Kohn and M. I. Aladjem},
+  title = 	 {Circuit diagrams for biological networks},
+  journal = 	 {Molecular Systems Biology},
+  year = 	 2006,
+  volume = 	 2,
+  note = 	 {online: doi: 10.1038/msb4100044}}
+
+Mol Syst Biol. 2006; 2: 2006.0002.
+Published online 2006 January 17. doi:  10.1038/msb4100044
+PMCID: PMC1681476
+Circuit diagrams for biological networks
+Kurt W Kohn1 and Mirit I Aladjemcorresponding author1
+
+@Article{Kitano,
+  author = 	 {H. Kitano and A. Funahashi and Y. Matsuoka and K. Oda},
+  title = 	 {Using process diagrams for the graphical representation of biological networks},
+  journal = 	 {Nature Biotechnology},
+  year = 	 2005,
+  volume = 	 23,
+  number = 	 8,
+  pages = 	 {961--6}}
+
+Nat Rev Genet. 2004 Nov;5(11):826-37.
+Biological robustness.
+Kitano H.
+Source
+ issue_date = {September 1990},
+month = sep,
+ issn = {0740-7459},
+ numpages = {9},
+ url = {http://dx.doi.org/10.1109/52.57887},
+ acmid = {624978},
+ publisher = {IEEE Computer Society Press},
+ address = {Los Alamitos, CA, USA},
+ keywords = {complex mathematics, development process, education, formal methods, formal specification, highly critical systems, specifications, training},
+ 
+@article{sevenMyths,
+ author = {Hall, A.},
+ title = {Seven Myths of Formal Methods},
+ journal = {IEEE Software},
+ volume = {7},
+ number = {5},
+ year = {1990},
+ pages = {11--19},
+ doi = {10.1109/52.57887},
+ 
+} 
+
+
+@ARTICLE{sevenMore, 
+author={J. P. Bowen and M. G. Hinchey}, 
+journal={IEEE Software}, 
+title={Seven more myths of formal methods}, 
+year={1995}, 
+volume={12}, 
+number={4}, 
+pages={34--41}, 
+doi={10.1109/52.391826}, 
+}
+keywords={software engineering;software tools;development process;engineering design methods;formal method myths;industrial projects;software tools;system development;Application software;Computer aided software engineering;Computer industry;Costs;Delay;History;Job shop scheduling;Process control;Processor scheduling;Tail}, 
+ISSN={0740-7459}, 
+month={Jul},
+
+@article{charlier,
+title = {Specifications are necessarily informal or: Some more myths of formal methods},
+author = {B. Le Charlier and P. Flener},
+journal = {Systems and Software},
+volume = 40,
+number = 3, 
+pages = {275--296},
+year = 1998
+}
